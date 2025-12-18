@@ -279,7 +279,7 @@ def plot_result(args_list):
     ax_inset.grid(True, alpha=0.3)
 
     plt.savefig(output_folder + text_name + '_.png', dpi=300, bbox_inches='tight', transparent=False)
-    plt.show()
+    #plt.show()
 
 
 data_unit_title = None
@@ -400,4 +400,5 @@ plt.savefig(output_folder + 'by_lesson.png', dpi=300, bbox_inches='tight', trans
 plt.show()
 
 with open(output_folder + "_արդիւնք.txt", "w", encoding="utf-8") as file:
+
     file.write(all_result)
