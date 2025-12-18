@@ -6,10 +6,12 @@ import os, re
 import matplotlib.pyplot as plt
 from collections import Counter
 
-global output_folder, base_folder
+global utput_folder, base_folder
 
 output_folder = "results/"
 base_folder = "texts/"
+
+
 # կազմում ենք աշխատանքային ծրարում եղած որոշակի տիպի նիշքերի անուների path[] ցուցակը (list)
 def pathiks(base_folder):
     folder = base_folder
@@ -58,7 +60,7 @@ def simple_parse(filename):
         'doc_title_long': metadata.get('doc_title_long'),
         'doc_title_short': metadata.get('doc_title_short'),
         'doc_id': metadata.get('doc id'),
-        'grade':metadata.get('index_est_grade'),
+        'grade': metadata.get('index_est_grade'),
         'unit_title_long': metadata.get('newunit_title_long'),
         'unit_title_short': metadata.get('newunit_title_short'),
         'unit_id': metadata.get('newunit id'),
@@ -121,7 +123,8 @@ def sentences_list(text):
     # դասաւորում ենք ըստ բառաքանակի
     sentences_sorted = sorted(sentences_c, key=lambda x: len(x.split()), reverse=True)
     #    sentences_list = text_.split('\n')
-    return sentences_c, sentences_sorted
+    #    print(len(sentences_sorted),len(sentences),len(sentences_c))
+    return sentences, sentences_sorted
 
 
 def score_grade(score):
@@ -184,14 +187,14 @@ def ari_count(text):
     global ari
 
     c = [21.5, 21.43, 11.8]
-    a = [3.74, 3.93, 1.9]
-    b = [0.57, 0.53, 0.49]
+    a = [3.8, 3.93, 1.9]
+    b = [0.54, 0.53, 0.49]
 
     char_length = len(text) - text.count(' ') - text.count('\n')
 
     sentences, sentences_sorted = sentences_list(text)
     sentences_number = len(sentences)
-    longest_sentence = f"«{sentences_sorted[0]}»։ ({len(sentences_sorted[0])} բառ)"
+    longest_sentence = f"«{sentences_sorted[0]}»։ ({len(sentences_sorted[0].split())} բառ)"
 
     words, unic_words = words_def(text)
 
@@ -220,6 +223,7 @@ def ari_count(text):
     return result_by_row
 
 
+# Տեքստը «տեղաւորենք» բառարանի մէջ։
 def texts_mining(filenames):
     data_unit_title = None
     book_text = ''
@@ -247,6 +251,8 @@ def texts_mining(filenames):
     return text_list, unit_name_list, unit_text_list
 
 
+# Գրաֆիկական արտապատկերման ֆունկցիա։
+# Ստանում է args_list-ը [x_lable, y_lable, title_label, x_data, y_data, average_length, average, text_name]
 def plot_result(args_list):
     x_lable, y_lable, title_label, x_data, y_data, average_length, average, text_name = args_list
 
@@ -273,7 +279,7 @@ def plot_result(args_list):
     ax_inset.grid(True, alpha=0.3)
 
     plt.savefig(output_folder + text_name + '_.png', dpi=300, bbox_inches='tight', transparent=False)
-    #plt.show()
+    plt.show()
 
 
 data_unit_title = None
@@ -287,8 +293,8 @@ all_result = ''
 awl_st = [4.2, 4.7, 4.9, 5.2, 5.4, 5.5, 5.9, 6.2, 6.4, 6.6, 6.7, 6.9, 7.1, 7.2, 7.6]
 asl_st = [7.0, 7.9, 8.4, 8.8, 9.2, 9.7, 10.1, 10.6, 11.0, 11.4, 11.9, 12.3, 13.2, 15.0, 17.6]
 ari_st = [-1.8, 0.58, 1.61, 2.96, 3.94, 4.6, 6.32, 7.73, 8.71, 9.68, 10.34, 11.32, 12.58, 13.98, 16.96]
-x = []
 
+x = []
 
 x_lable_list = ["Բառի երկարությունը", "Նախադասության երկարությունը"]
 y_lable_list = ["Բառերի քանակը (%)", "Նախադասությունների քանակը (%)"]
@@ -298,7 +304,7 @@ for filename in pathiks(base_folder)[0]:
     data = simple_parse(filename)
     text = data['full_text']
     grade = int(data['grade'])
-    average=awl_st[grade]
+    average = awl_st[grade]
     char_length = len(text) - text.count(' ') - text.count('\n')
 
     if data['unit_title_long'] == data_unit_title:
@@ -312,11 +318,8 @@ for filename in pathiks(base_folder)[0]:
 
     result_by_row = ari_count(text)
 
-    all_result = all_result + f'''
-Բաժին – {data['unit_title_long']}
-Դաս – {data['lesson_title']}
-Հեղինակ – {data['author_name']}
-{result_by_row}'''
+    all_result = all_result + f"Բաժին – {data['unit_title_long']} \
+\nԴաս – {data['lesson_title']} Հեղինակ – {data['author_name']} \n{result_by_row}"
 
     text_name = data['lesson_title']
 
@@ -331,8 +334,8 @@ for filename in pathiks(base_folder)[0]:
     average_length = awl
 
     title_lable = [
-        f"Բառերի հաճախականությունը ըստ նիշերի  քանակի, \nմիջին արժեքը՝ {average_length}, ակնկալվողը՝ ~{average}",
-        f"«{text_name}» \nՆախադասությունների հաճախականությունը ըստ բառերի  քանակի, \nմիջին արժեքը՝ {average_length} ակնկալվողը՝ ~{average}"]
+        f"{text_name}, {data['author_name']} \nԲառերի հաճախականությունը ըստ նիշերի  քանակի, \nմիջին արժեքը՝ {average_length}, ակնկալվողը՝ ~{average}",
+        f"{text_name}, {data['author_name']} \nՆախադասությունների հաճախականությունը ըստ բառերի  քանակի, \nմիջին արժեքը՝ {average_length} ակնկալվողը՝ ~{average}"]
 
     len_frq_dict = Counter(list_word_length)
     x_data = len_frq_dict.keys()  # x տուեալներ
@@ -381,16 +384,19 @@ all_result = f"Դիտարկվող տեքստը – {data['doc_title_long']} \n{b
 print(all_result)
 
 a = ari
+
 plt.figure(figsize=(15, 6))
-# plt.title('ARI միավորները ըստ դասագրքի բաժինների')
+plt.title(data['doc_title_short'])
 plt.xlabel('Դասեր')
 plt.ylabel('ARI միավոր')
 y = [i for i in range(1, len(x) + 1)]
-plt.plot(y, x, 'o-', label=data['doc_title_short'], color='royalblue', linewidth=4)
-plt.axhline(13, color='coral', linestyle='-', label=f'Տեքստի ընթեռնելիության ակնկալվող աստիճանը', linewidth=12, alpha=0.5)
-plt.axhline(a, color='red', linestyle='-', label=f'Տեքստի ընթեռնելիության իրական աստիճանը', linewidth=12, alpha=0.5)
+plt.grid(True)
+plt.plot(y, x, 'o-', label=f"Տեքստի ընթեռնելիության աստիճանը ըստ դասերի", color='royalblue', linewidth=4)
+plt.axhline(13, color='coral', linestyle='-', label=f"Տեքստի ընթեռնելիության ակնկալվող աստիճանը", linewidth=10,
+            alpha=0.5)
+plt.axhline(a, color='red', linestyle='-', label=f"Տեքստի ընթեռնելիության իրական աստիճանը", linewidth=10, alpha=0.5)
 plt.legend()
-plt.savefig('texts/' + 'by_lesson.png', dpi=300, bbox_inches='tight', transparent=False)
+plt.savefig(output_folder + 'by_lesson.png', dpi=300, bbox_inches='tight', transparent=False)
 plt.show()
 
 with open(output_folder + "_արդիւնք.txt", "w", encoding="utf-8") as file:
