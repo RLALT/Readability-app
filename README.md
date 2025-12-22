@@ -17,3 +17,6 @@ terminal-ում (cmd, command line) տեղափոխվում եք աշխատանք
 Գրում եք pip install matplotlib
 
 Արդյունքները կգրվեն results ծրարում
+
+#
+A parallel translated corpus of English texts with Automated Readability Index (ARI) scores was compiled to calculate the ARI scores in Armenian.
