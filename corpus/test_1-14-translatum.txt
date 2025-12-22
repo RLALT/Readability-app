@@ -1,57 +1,18 @@
-# doc_title = Աննա Ս. Դանիելյան, Զուգահեռ տեքստեր հայերենի Ընթեռնելիության ինքնաաշխատ ինդեքսի համար.— Երևան, 2025։
 # doc_title_en = Anna S. Danielyan. Parallel Texts for the Armenian Automated Readability Index. Yerevan, 2025.
+# doc_title = Աննա Ս. Դանիելյան, Զուգահեռ տեքստեր հայերենի Ընթեռնելիության ինքնաաշխատ ինդեքսի համար.— Երևան, 2025։
 # index_est_score = ARI-01
 # doc_id = ARI-01-translatum
 # newtext_id = ARI-01-translatum-AB01
-# parallel_id = p/ARI-01-translatum-AB01
-# text = Իմ կատուն
-Ես մի կատու ունեմ։ Իմ կատուն սև է։ Նա սիրում է խաղալ։ Նա արագ է վազում։ Ես սիրում եմ իմ կատվին։
+# parallel_id = p_ARI-01-translatum-AB01
 # text_en = My Cat
 I have a cat. My cat is black. She likes to play. She runs fast. I love my cat.
+# text_hy = Իմ կատուն
+Ես մի կատու ունեմ։ Իմ կատուն սև է։ Նա սիրում է խաղալ։ Նա արագ է վազում։ Ես սիրում եմ իմ կատվին։
 
 # index_est_score = ARI-02
 # doc_id = ARI-02-translatum
 # newtext_id = ARI-02-translatum-AB01
-# parallel_id = p/ARI-02-translatum-AB01
-# text = Մեկ օր այգում
-Այսօր ես գնացի այգի։ Արևը շողում էր։ Շատ ծառեր տեսա։ Ամենուր կանաչ տերևներ էին։ Ճոճանակ նստեցի։ Ճոճանակը վեր ու վար էր գնում։ Զվարճալի էր։ Նաև սղարանով սահեցի։ Սղարանը բարձր էր։ Ես շատ արագ էի իջնում։
-Տեսա իմ ընկերոջը՝ Սեմին։ Նա գնդակ էր բերել։ Մենք գնդակով խաղ խաղացինք։ Շատ լավ խաղ էր։ Խաղալուց հետո ընդմիջում արեցինք։ Ես խնձոր կերա, Սեմը՝ թխվածքաբլիթ։ Նստեցինք խոտերի վրա ու զրուցեցինք։
-Ես հիանալի օր անցկացրի այգում։ Չեմ համբերում՝ երբ եմ նորից գնալու։
-# text_en = A Day at the Park
-Today, I went to the park. The sun was shining. I saw many trees. There were green leaves everywhere. I played on the swings. The swings went up and down. It was fun! I also went on the slide. The slide was tall. I slid down very fast!
-I saw my friend, Sam. He brought a ball. We played catch. It was a great game. After playing, we had a snack. I ate an apple. Sam had a cookie. We sat on the grass and talked.
-I had a wonderful day at the park. I can't wait to go back!
-
-# index_est_score = ARI-03
-# doc_id = ARI-03-translatum
-# newtext_id = ARI-03-translatum-AB01
-# parallel_id = p/ARI-03-translatum-AB01
-# text = Ընկերասեր շնիկը
-Կար-չկար, մի գեղեցիկ փոքրիկ շնիկ կար, անունը՝ Բադի։ Բադին շատ ընկերասեր շնիկ էր, սիրում էր խաղալ բոլոր նրանց հետ, ում հանդիպում էր։ Նա ուներ փափուկ, շագանակագույն մորթի ու պոչ, որը միշտ շարժվում էր։
-Մի արևոտ օր Բադին դուրս էր եկել զբոսնելու իր տիրոջ՝ մի բարի ծերուկի հետ, որի անունը պարոն Սմիթ էր։ Երբ նրանք քայլում էին փողոցով, Բադին տեսավ մի փոքրիկ աղջկա, որը նստած էր նստարանին ու տխուր էր երևում։ Աղջկա անունը Էմիլի էր, նա իր կոն-պաղպաղակը գցել էր գետնին։
-Բադին վազեց Էմիլիի մոտ և նստեց նրա կողքին։ Նայեց նրան իր մեծ, շագանակագույն աչքերով ու մի մեղմ «հաֆ» արեց։ Էմիլին նայեց Բադիին և չկարողացավ զսպել ժպիտը։ Նա ձեռքը պարզեց ու շոյեց նրա փափուկ մորթին, իսկ Բադին ուրախ շարժեց պոչը։
-Պարոն Սմիթը մոտեցավ Էմիլիին և հարցրեց, թե արդյո՞ք ամեն ինչ կարգին է։ Էմիլին պատմեց նրան իր կոն-պաղպաղակի մասին, իսկ պարոն Սմիթն ասաց. «Դե լավ, մենք չենք կարող թույլ տալ, որ փոքրիկ աղջիկը տխրի, չէ՞»։ Նա Էմիլիին տարավ պաղպաղակի խանութ և նրա համար նոր կոն գնեց։
-Այդ օրվանից Էմիլին և Բադին դարձան ամենալավ ընկերները։ Ամեն անգամ, երբ Էմիլին վատ էր զգում, գնում էր այգի և փնտրում էր Բադիին։ Եվ երբ Բադին տեսնում էր Էմիլիին, վազում էր նրա մոտ ու շատ համբույրներ էր տալիս նրան իր թաց, վարդագույն լեզվով։
-Վերջ։
-# text_en = The Friendly Puppy
-Once upon a time, there was a cute little puppy named Buddy. Buddy was a very friendly dog who loved to play with everyone he met. He had soft brown fur and a wagging tail that never stopped moving.
-One sunny day, Buddy was out for a walk with his owner, a kind old man named Mr. Smith. As they walked down the street, Buddy saw a little girl sitting on a bench, looking sad. The girl's name was Emily, and she had dropped her ice cream cone on the ground.
-Buddy ran over to Emily and sat down next to her. He looked up at her with his big, brown eyes and let out a soft "woof." Emily looked at Buddy and couldn't help but smile. She reached out and petted his soft fur, and Buddy wagged his tail happily.
-Mr. Smith walked over to Emily and asked if she was okay. Emily told him about her ice cream cone, and Mr. Smith said, "Well, we can't have a sad little girl, can we?" He took Emily to the ice cream shop and bought her a new cone.
-From that day on, Emily and Buddy became the best of friends. Whenever Emily was feeling down, she would go to the park and look for Buddy. And whenever Buddy saw Emily, he would run over to her and give her lots of kisses with his wet, pink tongue.
-The end.
-
-# index_est_score = ARI-04
-# doc_id = ARI-04-translatum
-# newtext_id = ARI-04-translatum-AB01
-# parallel_id = p/ARI-04-translatum-AB01
-# text = Այգում
-Այսօր ընկերներիս հետ գնացի այգի։ Արևը շողում էր, իսկ երկինքը կապույտ էր։ Մենք ոգևորությամբ խաղում էինք դրսում։
-Նախ ճոճանակ նստեցինք։ Ես բարձր ճոճվեցի ու ինձ թվաց, որ կարող եմ դիպչել ամպերին։ Ընկերուհիս՝ Միան, ծիծաղելով հրում էր ինձ։
-Հետո մենք բռնոցի խաղացինք։ Ես արագ էի վազում՝ փորձելով բռնել ընկերներիս։ Բոլորս ծիծաղում ու բղավում էինք, երբ վազում էինք մեծ ծառերի շուրջը։
-Խաղալուց հետո նստեցինք խոտերի վրա՝ ճաշելու։ Ես ունեի սենդվիչ ու կտրատած խնձոր։ Մենք իրար պատմություններ պատմեցինք ու խոսեցինք մեր սիրելի խաղերի մասին։
-Մինչև գնալը շրջեցինք լճակի շուրջը։ Տեսանք լողացող բադեր ու բացված ծաղիկներ։ Հրաշալի օր անցկացրինք այգում։
-Չեմ համբերում՝ երբ եմ նորից գնալու։
+# parallel_id = p_ARI-02-translatum-AB01
 # text_en = A Day at the Park
 Today, I went to the park with my friends. The sun was shining, and the sky was blue. We were excited to play outside. 
 First, we played on the swings. I swung high into the air and felt like I could touch the clouds. My friend Mia laughed as she pushed me. 
@@ -59,12 +20,94 @@ Next, we played tag. I ran fast, trying to catch my friends. We all laughed and 
 After playing, we sat on the grass to eat lunch. I had a sandwich and some apple slices. We shared stories and talked about our favorite games. 
 Before we left, we took a walk around the pond. We saw ducks swimming and flowers blooming. It was a perfect day at the park. 
 I can’t wait to go back again!
+# text_hy = Այգում
+Այսօր ընկերներիս հետ գնացի այգի։ Արևը շողում էր, իսկ երկինքը կապույտ էր։ Մենք ոգևորությամբ խաղում էինք դրսում։
+Նախ ճոճանակ նստեցինք։ Ես բարձր ճոճվեցի ու ինձ թվաց, որ կարող եմ դիպչել ամպերին։ Ընկերուհիս՝ Միան, ծիծաղելով հրում էր ինձ։
+Հետո մենք բռնոցի խաղացինք։ Ես արագ էի վազում՝ փորձելով բռնել ընկերներիս։ Բոլորս ծիծաղում ու բղավում էինք, երբ վազում էինք մեծ ծառերի շուրջը։
+Խաղալուց հետո նստեցինք խոտերի վրա՝ ճաշելու։ Ես ունեի սենդվիչ ու կտրատած խնձոր։ Մենք իրար պատմություններ պատմեցինք ու խոսեցինք մեր սիրելի խաղերի մասին։
+Մինչև գնալը շրջեցինք լճակի շուրջը։ Տեսանք լողացող բադեր ու բացված ծաղիկներ։ Հրաշալի օր անցկացրինք այգում։
+Չեմ համբերում՝ երբ եմ նորից գնալու։
+
+# index_est_score = ARI-03
+# doc_id = ARI-03-translatum
+# newtext_id = ARI-03-translatum-AB01
+# parallel_id = p_ARI-03-translatum-AB01
+# text_en = The Friendly Puppy
+Once upon a time, there was a cute little puppy named Buddy. Buddy was a very friendly dog who loved to play with everyone he met. He had soft brown fur and a wagging tail that never stopped moving.
+One sunny day, Buddy was out for a walk with his owner, a kind old man named Mr. Smith. As they walked down the street, Buddy saw a little girl sitting on a bench, looking sad. The girl's name was Emily, and she had dropped her ice cream cone on the ground.
+Buddy ran over to Emily and sat down next to her. He looked up at her with his big, brown eyes and let out a soft "woof." Emily looked at Buddy and couldn't help but smile. She reached out and petted his soft fur, and Buddy wagged his tail happily.
+Mr. Smith walked over to Emily and asked if she was okay. Emily told him about her ice cream cone, and Mr. Smith said, "Well, we can't have a sad little girl, can we?" He took Emily to the ice cream shop and bought her a new cone.
+From that day on, Emily and Buddy became the best of friends. Whenever Emily was feeling down, she would go to the park and look for Buddy. And whenever Buddy saw Emily, he would run over to her and give her lots of kisses with his wet, pink tongue.
+The end.
+# text_hy = Ընկերասեր շնիկը
+Կար-չկար, մի գեղեցիկ փոքրիկ շնիկ կար, անունը՝ Բադի։ Բադին շատ ընկերասեր շնիկ էր, սիրում էր խաղալ բոլոր նրանց հետ, ում հանդիպում էր։ Նա ուներ փափուկ, շագանակագույն մորթի ու պոչ, որը միշտ շարժվում էր։
+Մի արևոտ օր Բադին դուրս էր եկել զբոսնելու իր տիրոջ՝ մի բարի ծերուկի հետ, որի անունը պարոն Սմիթ էր։ Երբ նրանք քայլում էին փողոցով, Բադին տեսավ մի փոքրիկ աղջկա, որը նստած էր նստարանին ու տխուր էր երևում։ Աղջկա անունը Էմիլի էր, նա իր կոն-պաղպաղակը գցել էր գետնին։
+Բադին վազեց Էմիլիի մոտ և նստեց նրա կողքին։ Նայեց նրան իր մեծ, շագանակագույն աչքերով ու մի մեղմ «հաֆ» արեց։ Էմիլին նայեց Բադիին և չկարողացավ զսպել ժպիտը։ Նա ձեռքը պարզեց ու շոյեց նրա փափուկ մորթին, իսկ Բադին ուրախ շարժեց պոչը։
+Պարոն Սմիթը մոտեցավ Էմիլիին և հարցրեց, թե արդյո՞ք ամեն ինչ կարգին է։ Էմիլին պատմեց նրան իր կոն-պաղպաղակի մասին, իսկ պարոն Սմիթն ասաց. «Դե լավ, մենք չենք կարող թույլ տալ, որ փոքրիկ աղջիկը տխրի, չէ՞»։ Նա Էմիլիին տարավ պաղպաղակի խանութ և նրա համար նոր կոն գնեց։
+Այդ օրվանից Էմիլին և Բադին դարձան ամենալավ ընկերները։ Ամեն անգամ, երբ Էմիլին վատ էր զգում, գնում էր այգի և փնտրում էր Բադիին։ Եվ երբ Բադին տեսնում էր Էմիլիին, վազում էր նրա մոտ ու շատ համբույրներ էր տալիս նրան իր թաց, վարդագույն լեզվով։
+Վերջ։
+
+# index_est_score = ARI-04
+# doc_id = ARI-04-translatum
+# newtext_id = ARI-04-translatum-AB01
+# parallel_id = p_ARI-04-translatum-AB01
+# text_en = Sarah Plants a Seed
+At breakfast, Sarah saw that her mother was wearing overalls. That meant that she was planning to work in the garden.
+“What are you planting today?” asked Sarah.
+“Today I will plant radishes and carrots,” answered Sarah’s mother. “Would you like to help?”
+Sarah was happy. She wanted to learn more about how her mother made vegetables grow.
+In the garden, Sarah’s mother used a stick to make a line in the soil. “This is called a furrow,” she said. “It’s a small ditch to hold the seeds.”
+Sarah used the stick to draw a line near her mother’s furrow. She watched her mother open a packet of carrot seeds.
+“Now I will plant the seeds in a long row in the furrow,” Sarah’s mother said. She carefully placed the tiny seeds in a neat line.
+“Can I help?” asked Sarah.
+“Carrot seeds are very small,” said Sarah’s mother. “Planting radish seeds is easier.”
+She opened a packet of radish seeds and handed it to Sarah. Sarah picked up a radish seed between her thumb and index finger. It looked like a small tan pebble.
+Sarah dropped her seed in the furrow. She picked up another and placed it into the dirt. Her furrow suddenly seemed very long because the seeds were so small.
+Sarah’s mother began to hum. Sarah liked the song. She joined in, and the music made planting seeds more fun.
+When the seeds were gone, Sarah watched her mother gently smooth the dirt over the furrow to cover the seeds. Sarah did the same to her seeds and patted the soil in place.
+“Now it’s time to water the seeds so they can spout,” said Sarah’s mother. She used a watering can to soak the ground.
+“The water lets the seeds know it’s time to grow. The seed will send up a green stem where we can see it. It will also send down white roots underground to drink more water,” Sarah’s mother said.
+“When will they be ready to eat?” asked Sarah.
+“In about a month,” said Sarah’s mother. “The small white root will turn grow nice and fat. The orange roots will be the carrots we eat. The red roots will be the radishes.”
+Sarah was very happy about her seeds. “I can’t wait to eat our vegetables!”
+# text_hy = Սառան սերմեր է ցանում
+Նախաճաշին Սառան տեսավ, որ մայրիկը կոմբինեզոն է հագել։ Դա նշանակում է, որ նա պատրաստվում է աշխատել այգում։
+— Ի՞նչ ես ցանելու այսօր,— հարցրեց Սառան։
+— Բողկ ու գազար,— պատասխանեց Սառայի մայրիկը,— կօգնե՞ս։
+Սառան ուրախացավ։ Նա ուզում էր իմանալ, թե ինչպես է մայրիկը բանջարեղեն աճեցնում։
+Այգում Սառայի մայրիկը փայտով գիծ արեց հողի մեջ։
+— Սա կոչվում է ակոս,— ասաց նա,— դա սերմերը պահելու փոքրիկ խրամատ է։
+Սառան փայտով գիծ քաշեց մայրիկի ակոսի մոտ։ Նայեց, թե ինչպես է մայրիկը բացում գազարի սերմերի տուփը։
+— Հիմա ես սերմերը շարքով կլցնեմ ակոսի մեջ,— ասաց Սառայի մայրիկը։ Նա զգուշորեն փոքրիկ սերմերը շարեց կոկիկ գծով։
+— Կարո՞ղ եմ օգնել,— հարցրեց Սառան։
+— Գազարի սերմերը շատ փոքր են,— ասաց Սառայի մայրիկը,— բողկի սերմեր տնկելն ավելի հեշտ է։
+Նա բացեց բողկի սերմերի մի տուփ և տվեց Սառային։ Սառան բթամատով ու ցուցամատով վերցրեց բողկի սերմը։ Կարծես փոքրիկ դարչնագույն խճաքար լիներ։
+Սառան սերմը գցեց ակոսի մեջ։ Հետո վերցրեց մեկ ուրիշն ու դրեց հողի մեջ։ Հանկարծ ակոսը նրան շատ երկար թվաց, որովհետև սերմերը շատ փոքր էին։
+Սառայի մայրիկը սկսեց քթի տակ երգել. Սառային դուր եկավ երգը։ Նա միացավ մայրիկին, և երաժշտությունից սերմեր ցանելը ավելի հաճելի դարձավ։
+Երբ սերմերը վերջացան, Սառան նայեց, թե ինչպես է մայրիկը զգուշորեն հարթեցնում ակոսի հողը, որպեսզի ծածկի սերմերը։ Նույնն ինքը արեց իր սերմերի հետ և թփթփացնելով հարթեցրեց հողը։
+— Հիմա սերմերը ջրելու ժամանակն է, որպեսզի դրանք ծլեն,— ասաց Սառայի մայրիկը։ Նա ցնցուղով թրջեց հողը։
+— Ջուրը սերմերին հուշում է, որ աճելու ժամանակն է։ Սերմից կանաչ ցողուն դուրս կգա, որը մենք կտեսնենք։ Սերմից նաև սպիտակ արմատներ կիջնեն հողի մեջ, որպեսզի ավելի շատ ջուր ստանան,— ասաց Սառայի մայրիկը։
+— Իսկ ե՞րբ կկարողանանք ուտել,— հարցրեց Սառան։
+— Մոտ մեկ ամսից,— ասաց Սառայի մայրիկը,— փոքր սպիտակ արմատը կսկսի մեծանալ և գիրանալ։ Նարնջագույն արմատները կլինեն գազար, որ մենք ուտում ենք։ Կարմիր արմատները կլինեն բողկ։
+Սառան շատ ուրախացավ սերմերով։
+— Չեմ համբերում, թե երբ եմ ուտելու մեր բանջարեղենը։
 
 # index_est_score = ARI-05
 # doc_id = ARI-05-translatum
 # newtext_id = ARI-05-translatum-AB01
-# parallel_id = p/ARI-05-translatum-AB01
-# text = Զարմանալի կերպով անհետացած թխվածքաբլիթները
+# parallel_id = p_ARI-05-translatum-AB01
+# text_en = The Curious Case of the Missing Cookies
+It was a typical afternoon in the Smith household. 8-year-old Emma and her 6-year-old brother Timmy were playing in the living room while their mom, Sarah, was busy in the kitchen baking cookies. The sweet aroma of freshly baked chocolate chip cookies filled the air, making both kids' mouths water.
+After what seemed like an eternity, Sarah finally called out, "Kids, the cookies are ready! Come and get them before they're all gone!" Emma and Timmy raced to the kitchen, eager to get their hands on the warm, gooey treats. But when they arrived, they noticed something strange - the cookie jar was empty!
+"Mom, where are the cookies?" Emma asked, confused.
+Sarah looked just as puzzled. "I don't know, dear. I just took them out of the oven and turned my back for a minute. They must have grown legs and walked away!"
+Timmy giggled at the silly idea, but then his face turned serious. "Maybe it was the cookie monster!" he exclaimed.
+Emma rolled her eyes. "Timmy, the cookie monster isn't real. Someone must have taken them."
+The two kids began investigating the kitchen, looking for clues. Timmy noticed a few crumbs on the floor near the counter. "Look, Emma! Footprints!" he shouted.
+Emma bent down to examine the crumbs. "You're right, Timmy! And they lead to the living room."
+The siblings followed the trail of crumbs, which led them straight to their dog, Max, who was happily munching on the last of the cookies. Emma and Timmy burst out laughing at the silly pup, realizing that he was the real "cookie monster" all along.
+From that day on, the Smith family made sure to keep the cookie jar out of Max's reach, and they all enjoyed the delicious treats together, with no more mysterious disappearances.
+# text_hy = Զարմանալի կերպով անհետացած թխվածքաբլիթները
 Սմիթների ընտանիքում սովորական կեսօր էր։ 8-ամյա Էմման և նրա 6-ամյա եղբայր Թիմին խաղում էին հյուրասենյակում, իսկ նրանց մայրը՝ Սառան, զբաղված էր խոհանոցում թխվածքաբլիթներ թխելով։ Թարմ թխված շոկոլադե բլիթների քաղցր բույրը տարածվել էր օդում, ինչից երկու երեխաների բերանը ջուր էր լցվում։
 Կարճ ժամանակ անց, որ մի ողջ հավերժություն էր թվացել, Սառան վերջապես բացականչեց. «Երեխաներ, թխվածքաբլիթները պատրաստ են։ Եկեք վերցրեք, քանի դեռ չեն վերջացել»։ Էմման և Թիմին վազեցին խոհանոց՝ տաք ու անուշաբույր քաղցրավենիքը ձեռքներն առնելու անզուսպ ցանկությամբ։ Բայց երբ հասան, մի տարօրինակ բան նկատեցին՝ թխվածքաբլիթների ամանը դատարկ էր։
 — Մայրիկ, որտե՞ղ են թխվածքաբլիթները,— շփոթված հարցրեց Էմման։
@@ -80,78 +123,58 @@ I can’t wait to go back again!
 — Դու ճիշտ ես, Թիմի, և դրանք տանում են հյուրասենյակ։
 Քույր ու եղբայր գնացին փշրանքների հետքերով, որոնք նրանց տարան ուղիղ դեպի իրենց շունը՝ Մաքսը, որն ուրախ խրթխրթացնում էր վերջին թխվածքաբլիթը։ Էմման և Թիմին ծիծաղեցին դմբո շնիկի վրա՝ հասկանալով, որ ողջ ընթացքում նա է եղել իրական «թխվածքաբլիթների հրեշը»։
 Այդ օրվանից Սմիթները հետևում էին, որ թխվածքաբլիթների ամանը Մաքսին հասանելի չլինի, և բոլորը միասին վայելում էին համեղ քաղցրավենիքը՝ արդեն առանց խորհրդավոր անհետացումների։
-# text_en = The Curious Case of the Missing Cookies
-It was a typical afternoon in the Smith household. 8-year-old Emma and her 6-year-old brother Timmy were playing in the living room while their mom, Sarah, was busy in the kitchen baking cookies. The sweet aroma of freshly baked chocolate chip cookies filled the air, making both kids' mouths water.
-After what seemed like an eternity, Sarah finally called out, "Kids, the cookies are ready! Come and get them before they're all gone!" Emma and Timmy raced to the kitchen, eager to get their hands on the warm, gooey treats. But when they arrived, they noticed something strange - the cookie jar was empty!
-"Mom, where are the cookies?" Emma asked, confused.
-Sarah looked just as puzzled. "I don't know, dear. I just took them out of the oven and turned my back for a minute. They must have grown legs and walked away!"
-Timmy giggled at the silly idea, but then his face turned serious. "Maybe it was the cookie monster!" he exclaimed.
-Emma rolled her eyes. "Timmy, the cookie monster isn't real. Someone must have taken them."
-The two kids began investigating the kitchen, looking for clues. Timmy noticed a few crumbs on the floor near the counter. "Look, Emma! Footprints!" he shouted.
-Emma bent down to examine the crumbs. "You're right, Timmy! And they lead to the living room."
-The siblings followed the trail of crumbs, which led them straight to their dog, Max, who was happily munching on the last of the cookies. Emma and Timmy burst out laughing at the silly pup, realizing that he was the real "cookie monster" all along.
-From that day on, the Smith family made sure to keep the cookie jar out of Max's reach, and they all enjoyed the delicious treats together, with no more mysterious disappearances.
 
 # index_est_score = ARI-06
 # doc_id = ARI-06-translatum
 # newtext_id = ARI-06-translatum-AB01
-# parallel_id = p/ARI-06-translatum-AB01
-# text = Լողափում
-Անցյալ շաբաթ օրը ես և իմ ընտանիքը գնացինք լողափ։ Արևը պայծառ շողում էր, իսկ երկինքը սիրուն կապույտ էր։ Մենք մեր պայուսակներում տեղավորեցինք սրբիչները, արևապաշտպան քսուքներն ու խորտիկները։ Փոքր եղբայրս շատ էր ուզում ավազե ամրոցներ կառուցել։
-Երբ հասանք, օդը լցվեց ափին բախվող ալիքների ձայնով։ Մենք մեր ծովափնյա հովանոցը դնելու շատ հարմար տեղ գտանք։ Արևապաշտպան քսուք քսելուց հետո վազեցինք ջուրը։ Օվկիանոսը սառն էր ու թարմացնող։ Ջուրն այս ու այն կողմ ցողեցինք ու խաղեր խաղացինք ալիքների մեջ։
-Հետո ընդմիջում արեցինք ու կերանք մեր խորտիկները։ Մայրս համեղ սենդվիչներ էր պատրաստել, նաև հյութալի ձմերուկ վայելեցինք։ Ճաշից հետո ես ու եղբայրս ավազե հսկա ամրոց կառուցեցինք։ Աշտարակներն ու պատերը սարքելու համար օգտագործեցինք դույլեր ու թիակներ։
-Լողափում գտնվողները հիացած էին մեր աշխատանքով։
-Երբ արևը սկսեց մայր մտնել, մենք հավաքեցինք մեր իրերն ու գնացինք տուն։ Հոգնած էինք, բայց ուրախ։ Լողափում հրաշալի օր էինք անցկացրել՝ լի զվարճանքով ու ծիծաղով։ Չեմ համբերում՝ երբ եմ նորից գնալու։
+# parallel_id = p_ARI-06-translatum-AB01
 # text_en = A Day at the Beach
 Last Saturday, my family and I went to the beach. The sun was shining brightly, and the sky was a beautiful blue. We packed our bags with towels, sunscreen, and snacks. My little brother was excited to build sandcastles.
 When we arrived, the sound of the waves crashing on the shore filled the air. We found a perfect spot to set up our beach umbrella. After applying sunscreen, we ran to the water. The ocean was cool and refreshing. We splashed around and played games in the waves.
 Later, we took a break to eat our snacks. My mom made delicious sandwiches, and we enjoyed juicy watermelon. After lunch, my brother and I built a giant sandcastle. We used buckets and shovels to create towers and walls. Everyone on the beach admired our work.
 As the sun began to set, we packed our things and headed home. We were tired but happy. It was a perfect day at the beach, filled with fun and laughter. I can't wait to go back!
+# text_hy = Լողափում
+Անցյալ շաբաթ օրը ես և իմ ընտանիքը գնացինք լողափ։ Արևը պայծառ շողում էր, իսկ երկինքը սիրուն կապույտ էր։ Մենք մեր պայուսակներում տեղավորեցինք սրբիչները, արևապաշտպան քսուքներն ու խորտիկները։ Փոքր եղբայրս շատ էր ուզում ավազե ամրոցներ կառուցել։
+Երբ հասանք, օդը լցվեց ափին բախվող ալիքների ձայնով։ Մենք մեր ծովափնյա հովանոցը դնելու շատ հարմար տեղ գտանք։ Արևապաշտպան քսուք քսելուց հետո վազեցինք ջուրը։ Օվկիանոսը սառն էր ու թարմացնող։ Ջուրն այս ու այն կողմ ցողեցինք ու խաղեր խաղացինք ալիքների մեջ։
+Հետո ընդմիջում արեցինք ու կերանք մեր խորտիկները։ Մայրս համեղ սենդվիչներ էր պատրաստել, նաև հյութալի ձմերուկ վայելեցինք։ Ճաշից հետո ես ու եղբայրս ավազե հսկա ամրոց կառուցեցինք։ Աշտարակներն ու պատերը սարքելու համար օգտագործեցինք դույլեր ու թիակներ։
+Լողափում գտնվողները հիացած էին մեր աշխատանքով։
+Երբ արևը սկսեց մայր մտնել, մենք հավաքեցինք մեր իրերն ու գնացինք տուն։ Հոգնած էինք, բայց ուրախ։ Լողափում հրաշալի օր էինք անցկացրել՝ լի զվարճանքով ու ծիծաղով։ Չեմ համբերում՝ երբ եմ նորից գնալու։
 
 # index_est_score = ARI-07
 # doc_id = ARI-07-translatum
 # newtext_id = ARI-07-translatum-AB01
-# parallel_id = p/ARI-07-translatum-AB01
-# text = Դինոզավրերի առեղծվածային անհետացումը
-Միլիոնավոր տարիներ առաջ Երկիր մոլորակի վրա ապրել են տարբեր տեսակի զարմանալի արարածներ, որոնք հայտնի են որպես դինոզավրեր։ Այս հսկա սողունները շրջել են ցամաքում, սավառնել երկնքում ու լողացել օվկիանոսներում։ Նրանք եղել են տարբեր ձևերի ու չափերի՝ հսկա բրախիոզավրից մինչև կատաղի տիրանոզավր ռեքս։
-Սակայն մոտ 66 միլիոն տարի առաջ մի աղետալի բան է տեղի ունեցել, որը հանգեցրել է այս հրաշալի գազանների ոչնչացմանը։ Գիտնականները երկար ժամանակ քննարկել են այս առեղծվածային անհետացման պատճառները, և տարիների ընթացքում մի քանի տեսություններ են առաջ քաշվել։ Ամենաընդունված բացատրություններից է աստերոիդների ազդեցության տեսությունը։ Համաձայն այս տեսության՝ մեքսիկական Յուկատան թերակղզու մոտակայքում Երկրին է բախվել մի հսկա աստերոիդ՝ մոտ 6 մղոն լայնությամբ։ Հարվածն այնքան հզոր է եղել, որ առաջացրել է հզոր երկրաշարժեր, հրաբխային ժայթքումներ և հսկայական փոշու ամպ, որը մի քանի տարի ծածկել է արևը։ Դա հանգեցրել է գլոբալ ջերմաստիճանի կտրուկ անկման՝ խաթարելով սննդային շղթան և անհնար դարձնելով շատ կենդանատեսակների, այդ թվում նաև դինոզավրերի գոյատևումը։
-Մեկ այլ տեսությամբ ենթադրվում է, որ դինոզավրերի ոչնչացմանը կարող էր նպաստել ինտենսիվ հրաբխային ակտիվությունը։ Աստերոիդի հարվածի մոտավորապես նույն ժամանակահատվածում ներկայիս Հնդկաստանի տարածքում եղել է ինտենսիվ հրաբխային ակտիվության շրջան։ Այս ժայթքումները մթնոլորտ են արտանետել հսկայական քանակությամբ ջերմոցային գազեր՝ դառնալով գլոբալ տաքացման և օվկիանոսների թթվայնացման պատճառ։ Սա կարող էր կործանարար ազդեցություն ունենալ դինոզավրերի և այն ժամանակ ապրող այլ կենդանատեսակների վրա։
-Չնայած այս տեսություններին, դինոզավրերի անհետացման ճշգրիտ պատճառը մնում է առեղծված։ Գիտնականները շարունակում են ուսումնասիրել բրածո նյութերը և նոր ապացույցներ հավաքել միլիոնավոր տարիներ առաջ տեղի ունեցածի գլուխկոտրուկը լուծելու համար։ Այնուամենայնիվ, մի բան հաստատ է՝ դինոզավրերի անհետացումը շրջադարձային կետ է եղել Երկիր մոլորակի վրա կյանքի գոյության պատմության մեջ՝ ճանապարհ հարթելով կաթնասունների առաջացման և, ի վերջո, մարդկանց էվոլյուցիայի համար։
+# parallel_id = p_ARI-07-translatum-AB01
 # text_en = The Mysterious Disappearance of the Dinosaurs
 Millions of years ago, the Earth was home to a wide variety of fascinating creatures known as dinosaurs. These giant reptiles roamed the land, soared through the skies, and swam in the oceans. They came in all shapes and sizes, from the towering Brachiosaurus to the fierce Tyrannosaurus Rex. 
 However, around 66 million years ago, something catastrophic happened that led to the extinction of these magnificent beasts. Scientists have long debated the cause of this mysterious disappearance, and over the years, several theories have been proposed. One of the most widely accepted explanations is the asteroid impact theory.
 According to this theory, a massive asteroid, estimated to be about 6 miles wide, slammed into the Earth near the Yucatan Peninsula in Mexico. The impact was so powerful that it caused massive earthquakes, volcanic eruptions, and a huge dust cloud that blocked out the sun for several years. This led to a dramatic drop in global temperatures, disrupting the food chain and making it impossible for many species, including the dinosaurs, to survive.
 Another theory suggests that intense volcanic activity may have contributed to the dinosaurs' demise. Around the same time as the asteroid impact, there was a period of intense volcanic activity in what is now India. These eruptions released massive amounts of greenhouse gases into the atmosphere, causing global warming and acidification of the oceans. This could have had a devastating effect on the dinosaurs and other species living at the time.
 Despite these theories, the exact cause of the dinosaurs' extinction remains a mystery. Scientists continue to study the fossil record and gather new evidence to piece together the puzzle of what happened millions of years ago. One thing is certain, however - the disappearance of the dinosaurs was a turning point in the history of life on Earth, paving the way for the rise of mammals and ultimately, the evolution of humans.
+# text_hy = Դինոզավրերի առեղծվածային անհետացումը
+Միլիոնավոր տարիներ առաջ Երկիր մոլորակի վրա ապրել են տարբեր տեսակի զարմանալի արարածներ, որոնք հայտնի են որպես դինոզավրեր։ Այս հսկա սողունները շրջել են ցամաքում, սավառնել երկնքում ու լողացել օվկիանոսներում։ Նրանք եղել են տարբեր ձևերի ու չափերի՝ հսկա բրախիոզավրից մինչև կատաղի տիրանոզավր ռեքս։
+Սակայն մոտ 66 միլիոն տարի առաջ մի աղետալի բան է տեղի ունեցել, որը հանգեցրել է այս հրաշալի գազանների ոչնչացմանը։ Գիտնականները երկար ժամանակ քննարկել են այս առեղծվածային անհետացման պատճառները, և տարիների ընթացքում մի քանի տեսություններ են առաջ քաշվել։ Ամենաընդունված բացատրություններից է աստերոիդների ազդեցության տեսությունը։ Համաձայն այս տեսության՝ մեքսիկական Յուկատան թերակղզու մոտակայքում Երկրին է բախվել մի հսկա աստերոիդ՝ մոտ 6 մղոն լայնությամբ։ Հարվածն այնքան հզոր է եղել, որ առաջացրել է հզոր երկրաշարժեր, հրաբխային ժայթքումներ և հսկայական փոշու ամպ, որը մի քանի տարի ծածկել է արևը։ Դա հանգեցրել է գլոբալ ջերմաստիճանի կտրուկ անկման՝ խաթարելով սննդային շղթան և անհնար դարձնելով շատ կենդանատեսակների, այդ թվում նաև դինոզավրերի գոյատևումը։
+Մեկ այլ տեսությամբ ենթադրվում է, որ դինոզավրերի ոչնչացմանը կարող էր նպաստել ինտենսիվ հրաբխային ակտիվությունը։ Աստերոիդի հարվածի մոտավորապես նույն ժամանակահատվածում ներկայիս Հնդկաստանի տարածքում եղել է ինտենսիվ հրաբխային ակտիվության շրջան։ Այս ժայթքումները մթնոլորտ են արտանետել հսկայական քանակությամբ ջերմոցային գազեր՝ դառնալով գլոբալ տաքացման և օվկիանոսների թթվայնացման պատճառ։ Սա կարող էր կործանարար ազդեցություն ունենալ դինոզավրերի և այն ժամանակ ապրող այլ կենդանատեսակների վրա։
+Չնայած այս տեսություններին, դինոզավրերի անհետացման ճշգրիտ պատճառը մնում է առեղծված։ Գիտնականները շարունակում են ուսումնասիրել բրածո նյութերը և նոր ապացույցներ հավաքել միլիոնավոր տարիներ առաջ տեղի ունեցածի գլուխկոտրուկը լուծելու համար։ Այնուամենայնիվ, մի բան հաստատ է՝ դինոզավրերի անհետացումը շրջադարձային կետ է եղել Երկիր մոլորակի վրա կյանքի գոյության պատմության մեջ՝ ճանապարհ հարթելով կաթնասունների առաջացման և, ի վերջո, մարդկանց էվոլյուցիայի համար։
 
 # index_est_score = ARI-08
 # doc_id = ARI-08-translatum
 # newtext_id = ARI-08-translatum-AB01
-# parallel_id = p/ARI-08-translatum-AB01
-# text = Ծառերի կարևորությունը
-Ծառերը կարևոր են մեր մոլորակի համար։ Դրանք ապահովում են թթվածին, որը կենսական նշանակություն ունի բոլոր կենդանի արարածների համար։ Առանց ծառերի, մեր օդը շատ ավելի կեղտոտ կլիներ և դժվար կլիներ շնչել։ Բացի այդ, ծառերը ստվեր և ապաստան են տարբեր կենդանիների համար։ Թռչուններն իրենց բները սարքում են ճյուղերի վրա, իսկ շատ միջատներ ապաստան են գտնում կեղևի մեջ։
-Ավելին, ծառերը կարևոր դեր են խաղում հողի քայքայումը կանխարգելելու գործում։ Դրանց արմատները պահում են հողը՝ նվազեցնելով սողանքների և ջրհեղեղների վտանգը։ Քաղաքային բնակավայրերում ծառերն օգնում են զովացնել շրջակա միջավայրը՝ շոգ եղանակին քաղաքները դարձնելով ավելի հարմարավետ։
-Ծառատունկը շրջակա միջավայրին օգուտ տալու պարզ, բայց հզոր միջոց է։ Բոլորը կարող են իրենց մասնակցությունն ունենալ՝ լինի իրենց բակում ծառ տնկելով, թե տեղական այգիներում ծառեր տնկելու համար համայնքի ջանքերին միանալով։ Այս փոքր քայլերով մենք կարող ենք նպաստել ապագա սերունդների համար ավելի առողջ մոլորակ ապահովելու գործին։
-Ծառերը պարզապես գեղեցիկ չեն. դրանք կենսական նշանակություն ունեն մեր գոյատևման համար։ Ծառերը պահպանելն ու տնկելը պետք է առաջնահերթություն լինի բոլորի համար։ Միասին մենք կարող ենք շատ բան փոխել։
+# parallel_id = p_ARI-08-translatum-AB01
 # text_en = The Importance of Trees
 Trees are essential to our planet. They provide oxygen, which is vital for all living beings. Without trees, our air would be much dirtier and harder to breathe. Additionally, trees offer shade and shelter for various animals. Birds build their nests in the branches, while many insects find homes in the bark.
 Moreover, trees play a significant role in preventing soil erosion. Their roots hold the soil together, reducing the risk of landslides and floods. In urban areas, trees help cool the environment, making cities more comfortable during hot weather.
 Planting trees is a simple yet powerful way to contribute to the environment. Everyone can participate, whether by planting a tree in their backyard or joining community efforts to plant trees in local parks. By taking these small steps, we can help ensure a healthier planet for future generations.
 In conclusion, trees are not just beautiful; they are vital to our survival. Protecting and planting trees should be a priority for everyone. Together, we can make a difference.
+# text_hy = Ծառերի կարևորությունը
+Ծառերը կարևոր են մեր մոլորակի համար։ Դրանք ապահովում են թթվածին, որը կենսական նշանակություն ունի բոլոր կենդանի արարածների համար։ Առանց ծառերի, մեր օդը շատ ավելի կեղտոտ կլիներ և դժվար կլիներ շնչել։ Բացի այդ, ծառերը ստվեր և ապաստան են տարբեր կենդանիների համար։ Թռչուններն իրենց բները սարքում են ճյուղերի վրա, իսկ շատ միջատներ ապաստան են գտնում կեղևի մեջ։
+Ավելին, ծառերը կարևոր դեր են խաղում հողի քայքայումը կանխարգելելու գործում։ Դրանց արմատները պահում են հողը՝ նվազեցնելով սողանքների և ջրհեղեղների վտանգը։ Քաղաքային բնակավայրերում ծառերն օգնում են զովացնել շրջակա միջավայրը՝ շոգ եղանակին քաղաքները դարձնելով ավելի հարմարավետ։
+Ծառատունկը շրջակա միջավայրին օգուտ տալու պարզ, բայց հզոր միջոց է։ Բոլորը կարող են իրենց մասնակցությունն ունենալ՝ լինի իրենց բակում ծառ տնկելով, թե տեղական այգիներում ծառեր տնկելու համար համայնքի ջանքերին միանալով։ Այս փոքր քայլերով մենք կարող ենք նպաստել ապագա սերունդների համար ավելի առողջ մոլորակ ապահովելու գործին։
+Ծառերը պարզապես գեղեցիկ չեն. դրանք կենսական նշանակություն ունեն մեր գոյատևման համար։ Ծառերը պահպանելն ու տնկելը պետք է առաջնահերթություն լինի բոլորի համար։ Միասին մենք կարող ենք շատ բան փոխել։
 
 # index_est_score = ARI-09
 # doc_id = ARI-09-translatum
 # newtext_id = ARI-09-translatum-AB01
-# parallel_id = p/ARI-09-translatum-AB01
-# text = Օվկիանոսի հրաշքները
-Օվկիանոսը ծածկում է մեր մոլորակի մակերեսի ավելի քան 70%-ը։ Այն հսկայական և խորհրդավոր միջավայր է, որը լի է կյանքի անհավանական ձևերով։ Օվկիանոսում ապրում են տարբեր կենդանատեսակներ՝ ամենափոքր պլանկտոնից մինչև ամենամեծ կետերը։ Գիտնականները կարծում են, որ ջրերի ընդերքում ապրում են միլիոնավոր չբացահայտված տեսակներ։
-Օվկիանոսների կարևորությունը
-Օվկիանոսները խիստ կարևոր դեր ունեն մեր էկոհամակարգում։ Դրանք արտադրում են մեր շնչած թթվածնի կեսից ավելին և նպաստում են Երկրի կլիմայի կարգավորմանը։ Օվկիանոսը կլանում է ածխաթթու գազը, ինչն օգնում է մեղմել կլիմայական փոփոխությունները։ Բացի այդ, օվկիանոսները սննդի և ապրուստի աղբյուր են միլիարդավոր մարդկանց համար ամբողջ աշխարհում։
-Սպառնալիքներ օվկիանոսների կյանքին
-Չնայած իրենց կարևորությանը, օվկիանոսներին սպառնացող բազմաթիվ գործոններ կան։ Աղտոտվածությունը, ձկնորսության ծավալների գերազանցումը և կլիմայի փոփոխությունը զգալի վնաս են հասցնում ծովային էկոհամակարգերին։ Պլաստիկի թափոնը մեծ խնդիր է, որը վնաս է հասցնում կենդանական աշխարհին և խաթարում կենսամիջավայրը։ Հատկապես խոցելի են կորալների խութերը, որոնք հաճախ կոչվում են «ծովի խոնավ անտառներ»։ Դրանք ոչնչանում են տագնապալի արագությամբ՝ օվկիանոսի ջերմաստիճանի բարձրացման և թթվայնացման պատճառով։
-Պաշտպանում ենք մեր օվկիանոսները
-Մեր օվկիանոսները պաշտպանելու համար մենք պետք է քայլեր ձեռնարկենք։ Պլաստիկի օգտագործման կրճատումը, ձկնորսության կայուն չափերի պրակտիկային աջակցելը և ծովային պահպանվող տարածքների պաշտպանությունը կարևոր քայլեր են։ Կրթությունն ու տեղեկացվածությունը նույնպես կենսական նշանակություն ունեն։ Հասկանալով օվկիանոսների կարևորությունը՝ մենք կարող ենք ոգեշնչել մյուսներին՝ միանալու դրանց պահպանման համար մղվող պայքարին։
-Օվկիանոսը կենսաբազմազանության գանձարան է և մեր մոլորակի առողջության կարևոր բաղադրիչ։ Մեր պարտքն է պաշտպանել այն ապագա սերունդների համար։ Միասին մենք կարող ենք շատ բան փոխել։
+# parallel_id = p_ARI-09-translatum-AB01
 # text_en = The Wonders of the Ocean
 The ocean covers more than 70% of our planet's surface. It is a vast and mysterious place filled with incredible life forms. From the tiniest plankton to the largest whales, the ocean is home to a diverse range of species. Scientists believe that there are millions of undiscovered species living in the deep sea.
 The Importance of Oceans
@@ -161,18 +184,20 @@ Despite their importance, oceans face numerous threats. Pollution, overfishing, 
 Protecting Our Oceans
 To protect our oceans, we must take action. Reducing plastic use, supporting sustainable fishing practices, and advocating for marine protected areas are essential steps. Education and awareness are also vital. By understanding the importance of the ocean, we can inspire others to join the fight for its preservation.
 In conclusion, the ocean is a treasure trove of biodiversity and a critical component of our planet's health. It is our responsibility to safeguard it for future generations. Together, we can make a difference.
+# text_hy = Օվկիանոսի հրաշքները
+Օվկիանոսը ծածկում է մեր մոլորակի մակերեսի ավելի քան 70%-ը։ Այն հսկայական և խորհրդավոր միջավայր է, որը լի է կյանքի անհավանական ձևերով։ Օվկիանոսում ապրում են տարբեր կենդանատեսակներ՝ ամենափոքր պլանկտոնից մինչև ամենամեծ կետերը։ Գիտնականները կարծում են, որ ջրերի ընդերքում ապրում են միլիոնավոր չբացահայտված տեսակներ։
+Օվկիանոսների կարևորությունը
+Օվկիանոսները խիստ կարևոր դեր ունեն մեր էկոհամակարգում։ Դրանք արտադրում են մեր շնչած թթվածնի կեսից ավելին և նպաստում են Երկրի կլիմայի կարգավորմանը։ Օվկիանոսը կլանում է ածխաթթու գազը, ինչն օգնում է մեղմել կլիմայական փոփոխությունները։ Բացի այդ, օվկիանոսները սննդի և ապրուստի աղբյուր են միլիարդավոր մարդկանց համար ամբողջ աշխարհում։
+Սպառնալիքներ օվկիանոսների կյանքին
+Չնայած իրենց կարևորությանը, օվկիանոսներին սպառնացող բազմաթիվ գործոններ կան։ Աղտոտվածությունը, ձկնորսության ծավալների գերազանցումը և կլիմայի փոփոխությունը զգալի վնաս են հասցնում ծովային էկոհամակարգերին։ Պլաստիկի թափոնը մեծ խնդիր է, որը վնաս է հասցնում կենդանական աշխարհին և խաթարում կենսամիջավայրը։ Հատկապես խոցելի են կորալների խութերը, որոնք հաճախ կոչվում են «ծովի խոնավ անտառներ»։ Դրանք ոչնչանում են տագնապալի արագությամբ՝ օվկիանոսի ջերմաստիճանի բարձրացման և թթվայնացման պատճառով։
+Պաշտպանում ենք մեր օվկիանոսները
+Մեր օվկիանոսները պաշտպանելու համար մենք պետք է քայլեր ձեռնարկենք։ Պլաստիկի օգտագործման կրճատումը, ձկնորսության կայուն չափերի պրակտիկային աջակցելը և ծովային պահպանվող տարածքների պաշտպանությունը կարևոր քայլեր են։ Կրթությունն ու տեղեկացվածությունը նույնպես կենսական նշանակություն ունեն։ Հասկանալով օվկիանոսների կարևորությունը՝ մենք կարող ենք ոգեշնչել մյուսներին՝ միանալու դրանց պահպանման համար մղվող պայքարին։
+Օվկիանոսը կենսաբազմազանության գանձարան է և մեր մոլորակի առողջության կարևոր բաղադրիչ։ Մեր պարտքն է պաշտպանել այն ապագա սերունդների համար։ Միասին մենք կարող ենք շատ բան փոխել։
 
 # index_est_score = ARI-10
 # doc_id = ARI-10-translatum
 # newtext_id = ARI-10-translatum-AB01
-# parallel_id = p/ARI-10-translatum-AB01
-# text = Կանոնավոր մարզվելու առավելությունները
-Կանոնավոր մարզվելը կարևոր է առողջության պահպանման և լավ ինքնազգացողության համար։ Ֆիզիկական ակտիվությունը կարող է շատ առումներով բարելավել ինչպես ֆիզիկական, այնպես էլ մտավոր առողջությունը։ Մարդիկ, ովքեր կանոնավոր կերպով մարզվում են, ավելի քիչ են հակված քրոնիկ հիվանդությունների, ինչպիսիք են սրտի հիվանդությունները, շաքարախտը և գիրությունը։
-Կանոնավոր մարզվելու հիմնական առավելություններից մեկը քաշի կառավարումն է։ Երբ մարդիկ ֆիզիկական ակտիվություն են ցուցաբերում, նրանք կալորիաներ են այրում, ինչն օգնում է պահպանել առողջ քաշը։ Սա հատկապես կարևոր է մի աշխարհում, որտեղ նստակյաց ապրելակերպը սովորական է դարձել տեխնոլոգիաների և գրասենյակային աշխատանքի պատճառով։
-Բացի քաշը վերահսկելուց, մարզվելը բարելավում է հոգեկան առողջությունը։ Ֆիզիկական ակտիվությունից առաջանում են էնդորֆիններ՝ քիմիական նյութեր ուղեղում, որոնք առաջացնում են երջանկության զգացում և նվազեցնում սթրեսը։ Շատերը գտնում են, որ կանոնավոր վարժություններն օգնում են իրենց կառավարել անհանգստությունն ու դեպրեսիան՝ առաջացնելով կյանքի նկատմամբ ավելի դրական վերաբերմունք։
-Ավելին, կանոնավոր մարզանքը բարելավում է ընդհանուր ֆիզիկական վիճակը։ Այն բարելավում է սրտանոթային համակարգը, ամրացնում է մկանները և մեծացնում ճկունությունը։ Այս առավելությունները դրականորեն են ազդում ամենօրյա կենսագործունեության վրա և նվազեցնում են վնասվածքներ ստանալու վտանգը։
-Ի վերջո, մարզվելը կարող է նաև խթանել սոցիալական կապերը։ Խմբային պարապմունքներին մասնակցելը կամ սպորտային թիմերի անդամ լինելը անհատներին հնարավորություն է տալիս հանդիպել նոր մարդկանց և ընկերներ ձեռք բերել։ Սոցիալական շփումը կարող է բարելավել մտավոր առողջությունը։
-Այսպիսով, կանոնավոր մարզանքն ունի բազմաթիվ առավելություններ՝ ներառյալ քաշի կառավարումը, մտավոր առողջության, ֆիզիկական վիճակի բարելավումն ու սոցիալական կապերը։ Ֆիզիկական ակտիվությունն առօրյայի մաս դարձնելը կարող է ապահովել ավելի առողջ և երջանիկ կյանք։
+# parallel_id = p_ARI-10-translatum-AB01
 # text_en = The Benefits of Regular Exercise
 Regular exercise is essential for maintaining good health and well-being. Engaging in physical activity can improve both physical and mental health in various ways. People who exercise regularly tend to have lower rates of chronic diseases, such as heart disease, diabetes, and obesity.
 One significant benefit of regular exercise is weight management. When individuals engage in physical activities, they burn calories, which helps to maintain a healthy weight. This is particularly important in a world where sedentary lifestyles are common due to technology and desk jobs.
@@ -180,21 +205,18 @@ In addition to weight control, exercise boosts mental health. Physical activity 
 Moreover, regular exercise enhances overall fitness. It improves cardiovascular health, strengthens muscles, and increases flexibility. These benefits contribute to better performance in daily activities and reduce the risk of injury.
 Lastly, exercising can also foster social connections. Participating in group classes or sports teams allows individuals to meet new people and build friendships. This social interaction can further enhance mental well-being.
 In conclusion, regular exercise offers numerous benefits, including weight management, improved mental health, enhanced fitness, and social connections. Incorporating physical activity into daily routines can lead to a healthier and happier life.
+# text_hy = Կանոնավոր մարզվելու առավելությունները
+Կանոնավոր մարզվելը կարևոր է առողջության պահպանման և լավ ինքնազգացողության համար։ Ֆիզիկական ակտիվությունը կարող է շատ առումներով բարելավել ինչպես ֆիզիկական, այնպես էլ մտավոր առողջությունը։ Մարդիկ, ովքեր կանոնավոր կերպով մարզվում են, ավելի քիչ են հակված քրոնիկ հիվանդությունների, ինչպիսիք են սրտի հիվանդությունները, շաքարախտը և գիրությունը։
+Կանոնավոր մարզվելու հիմնական առավելություններից մեկը քաշի կառավարումն է։ Երբ մարդիկ ֆիզիկական ակտիվություն են ցուցաբերում, նրանք կալորիաներ են այրում, ինչն օգնում է պահպանել առողջ քաշը։ Սա հատկապես կարևոր է մի աշխարհում, որտեղ նստակյաց ապրելակերպը սովորական է դարձել տեխնոլոգիաների և գրասենյակային աշխատանքի պատճառով։
+Բացի քաշը վերահսկելուց, մարզվելը բարելավում է հոգեկան առողջությունը։ Ֆիզիկական ակտիվությունից առաջանում են էնդորֆիններ՝ քիմիական նյութեր ուղեղում, որոնք առաջացնում են երջանկության զգացում և նվազեցնում սթրեսը։ Շատերը գտնում են, որ կանոնավոր վարժություններն օգնում են իրենց կառավարել անհանգստությունն ու դեպրեսիան՝ առաջացնելով կյանքի նկատմամբ ավելի դրական վերաբերմունք։
+Ավելին, կանոնավոր մարզանքը բարելավում է ընդհանուր ֆիզիկական վիճակը։ Այն բարելավում է սրտանոթային համակարգը, ամրացնում է մկանները և մեծացնում ճկունությունը։ Այս առավելությունները դրականորեն են ազդում ամենօրյա կենսագործունեության վրա և նվազեցնում են վնասվածքներ ստանալու վտանգը։
+Ի վերջո, մարզվելը կարող է նաև խթանել սոցիալական կապերը։ Խմբային պարապմունքներին մասնակցելը կամ սպորտային թիմերի անդամ լինելը անհատներին հնարավորություն է տալիս հանդիպել նոր մարդկանց և ընկերներ ձեռք բերել։ Սոցիալական շփումը կարող է բարելավել մտավոր առողջությունը։
+Այսպիսով, կանոնավոր մարզանքն ունի բազմաթիվ առավելություններ՝ ներառյալ քաշի կառավարումը, մտավոր առողջության, ֆիզիկական վիճակի բարելավումն ու սոցիալական կապերը։ Ֆիզիկական ակտիվությունն առօրյայի մաս դարձնելը կարող է ապահովել ավելի առողջ և երջանիկ կյանք։
 
 # index_est_score = ARI-11
 # doc_id = ARI-11-translatum
 # newtext_id = ARI-11-translatum-AB01
-# parallel_id = p/ARI-11-translatum-AB01
-# text = Վերականգնվող էներգիայի կարևորությունը
-Վերջին տարիներին էներգիայի աղբյուրների շուրջ խոսակցությունները կտրուկ փոխվել են։ Քանի որ կլիմայի փոփոխության և շրջակա միջավայրի վիճակի վատթարացման վերաբերյալ մտահոգությունները մեծանում են, շատ մարդիկ ուշադրությունը սևեռում են վերականգնվող էներգիայի վրա։ Այս տեսակի էներգիան ստացվում է բնական աղբյուրներից, որոնք անընդհատ համալրվող են՝ արևի լույսը, քամին և ջուրը։
-Վերականգնվող էներգիայի առավելությունները
-Վերականգնվող էներգիայի ամենակարևոր առավելություններից մեկը ջերմոցային գազերի արտանետումները նվազեցնելու հնարավորությունն է։ Ի տարբերություն հանածո վառելիքի, որն այրելիս մեծ քանակությամբ ածխաթթու գազ է արտազատվում, վերականգնվող աղբյուրների արտանետումները քիչ են կամ ընդհանրապես չկան։ Արտանետումների այս նվազումը վճռորոշ է գլոբալ տաքացման դեմ պայքարում։
-Բացի այդ, վերականգնվող էներգիան կարող է բարձրացնել էներգետիկ անվտանգությունը։ Դիվերսիֆիկացնելով էներգիայի մատակարարումը և ավելի քիչ հենվելով ներկրվող վառելիքի վրա՝ երկրները կարող են իրենց ապահովագրել գների տատանումներից և մատակարարման խափանումներից։ Այս կայունությունը էական նշանակություն ունի ինչպես տնտեսական աճի, այնպես էլ ազգային անվտանգության համար։
-Առկա մարտահրավերները
-Չնայած առավելություններին, անցումը վերականգնվող էներգիային զերծ չէ մարտահրավերներից։ Հիմնական խոչընդոտներից մեկը առաջադեմ տեխնոլոգիաների և ենթակառուցվածքների անհրաժեշտությունն է։ Վերականգնվող էներգիայի շատ համակարգեր պահանջում են զգալի ներդրումներ կատարել նոր տեխնոլոգիաների և էլեկտրական ցանցի բարելավման մեջ՝ հուսալիություն և արդյունավետություն ապահովելու համար։
-Ավելին, հանրային ընդունելությունը և քաղաքական աջակցությունը կարևոր նշանակություն ունեն։ Կառավարությունները պետք է նպաստավոր կարգավորումներ իրականացնեն և խթան հանդիսանան՝ խրախուսելու վերականգնվող էներգիային առնչվող որոշումների մշակումն ու ընդունումը։ Կրթությունն ու իրազեկումը նույնպես կարևոր են էներգիայի այս աղբյուրների առավելությունների մասին հանրությանը տեղեկացնելու համար։
-Եզրակացություն
-Այսպիսով, վերականգնվող էներգիան կենսական նշանակություն ունեցող քայլ է դեպի կայուն ապագա։ Ներդրումներ կատարելով այս տեխնոլոգիաներում և հաղթահարելով առկա մարտահրավերները՝ մենք կարող ենք ստեղծել ավելի մաքուր և անվտանգ էներգետիկ լանդշաֆտ գալիք սերունդների համար։ Վերականգնվող էներգիայի համակարգի ներդրումը պարզապես բնապահպանական անհրաժեշտություն չէ. այն նաև տնտեսական աճի և նորարարության հնարավորություն է։
+# parallel_id = p_ARI-11-translatum-AB01
 # text_en = The Importance of Renewable Energy
 In recent years, the conversation around energy sources has shifted dramatically. As concerns about climate change and environmental degradation grow, many people are turning their attention to renewable energy. This type of energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water.
 Benefits of Renewable Energy
@@ -205,36 +227,38 @@ Despite its benefits, the transition to renewable energy is not without challeng
 Moreover, public acceptance and policy support are critical. Governments must implement favorable regulations and incentives to encourage the development and adoption of renewable energy solutions. Education and outreach are also important to inform the public about the benefits of these energy sources.
 Conclusion
 In conclusion, renewable energy represents a vital step toward a sustainable future. By investing in these technologies and overcoming existing challenges, we can create a cleaner, more secure energy landscape for generations to come. Embracing renewable energy is not just an environmental necessity; it is also an opportunity for economic growth and innovation.
+# text_hy = Վերականգնվող էներգիայի կարևորությունը
+Վերջին տարիներին էներգիայի աղբյուրների շուրջ խոսակցությունները կտրուկ փոխվել են։ Քանի որ կլիմայի փոփոխության և շրջակա միջավայրի վիճակի վատթարացման վերաբերյալ մտահոգությունները մեծանում են, շատ մարդիկ ուշադրությունը սևեռում են վերականգնվող էներգիայի վրա։ Այս տեսակի էներգիան ստացվում է բնական աղբյուրներից, որոնք անընդհատ համալրվող են՝ արևի լույսը, քամին և ջուրը։
+Վերականգնվող էներգիայի առավելությունները
+Վերականգնվող էներգիայի ամենակարևոր առավելություններից մեկը ջերմոցային գազերի արտանետումները նվազեցնելու հնարավորությունն է։ Ի տարբերություն հանածո վառելիքի, որն այրելիս մեծ քանակությամբ ածխաթթու գազ է արտազատվում, վերականգնվող աղբյուրների արտանետումները քիչ են կամ ընդհանրապես չկան։ Արտանետումների այս նվազումը վճռորոշ է գլոբալ տաքացման դեմ պայքարում։
+Բացի այդ, վերականգնվող էներգիան կարող է բարձրացնել էներգետիկ անվտանգությունը։ Դիվերսիֆիկացնելով էներգիայի մատակարարումը և ավելի քիչ հենվելով ներկրվող վառելիքի վրա՝ երկրները կարող են իրենց ապահովագրել գների տատանումներից և մատակարարման խափանումներից։ Այս կայունությունը էական նշանակություն ունի ինչպես տնտեսական աճի, այնպես էլ ազգային անվտանգության համար։
+Առկա մարտահրավերները
+Չնայած առավելություններին, անցումը վերականգնվող էներգիային զերծ չէ մարտահրավերներից։ Հիմնական խոչընդոտներից մեկը առաջադեմ տեխնոլոգիաների և ենթակառուցվածքների անհրաժեշտությունն է։ Վերականգնվող էներգիայի շատ համակարգեր պահանջում են զգալի ներդրումներ կատարել նոր տեխնոլոգիաների և էլեկտրական ցանցի բարելավման մեջ՝ հուսալիություն և արդյունավետություն ապահովելու համար։
+Ավելին, հանրային ընդունելությունը և քաղաքական աջակցությունը կարևոր նշանակություն ունեն։ Կառավարությունները պետք է նպաստավոր կարգավորումներ իրականացնեն և խթան հանդիսանան՝ խրախուսելու վերականգնվող էներգիային առնչվող որոշումների մշակումն ու ընդունումը։ Կրթությունն ու իրազեկումը նույնպես կարևոր են էներգիայի այս աղբյուրների առավելությունների մասին հանրությանը տեղեկացնելու համար։
+Եզրակացություն
+Այսպիսով, վերականգնվող էներգիան կենսական նշանակություն ունեցող քայլ է դեպի կայուն ապագա։ Ներդրումներ կատարելով այս տեխնոլոգիաներում և հաղթահարելով առկա մարտահրավերները՝ մենք կարող ենք ստեղծել ավելի մաքուր և անվտանգ էներգետիկ լանդշաֆտ գալիք սերունդների համար։ Վերականգնվող էներգիայի համակարգի ներդրումը պարզապես բնապահպանական անհրաժեշտություն չէ. այն նաև տնտեսական աճի և նորարարության հնարավորություն է։
 
 # index_est_score = ARI-12
 # doc_id = ARI-12-translatum
 # newtext_id = ARI-12-translatum-AB01
-# parallel_id = p/
-# text = Քննադատական մտածողության կարևորությունը ժամանակակից աշխարհում
-Ժամանակակից արագ զարգացող աշխարհում քննադատաբար մտածելու կարողությունն ավելի ու ավելի կարևոր է դառնում։ Քննադատական մտածողությունը ենթադրում է տեղեկատվության օբյեկտիվ վերլուծություն և գնահատում՝ դատողություն ձևավորելու համար։ Այն մարդկանց թույլ է տալիս կասկածի տակ դնել ենթադրությունները, կանխորոշել բազմաթիվ գործընթացներ և հանգել հիմնավորված եզրակացությունների։ Այս հմտությունը կարևոր է կյանքի տարբեր իրավիճակներում՝ անձնական որոշումներ կայացնելուց մինչև մասնագիտական հաջողություններ և հասարակական առաջընթաց։
-Քննադատական մտածողության հիմնական առավելություններից մեկը խնդիրների լուծման հմտություններ զարգացնելու կարողությունն է։ Բարդ խնդիրները բաժանելով կառավարելի բաղադրիչների և դիտարկելով այլընտրանքային լուծումներ՝ մարդիկ կարող են ավելի հիմնավոր և արդյունավետ որոշումներ կայացնել։ Սա հատկապես կարևոր է այնպիսի ոլորտներում, ինչպիսին բիզնեսն է, որտեղ ղեկավարները պետք է կողմնորոշվեն դժվար իրավիճակներում և հարմարվեն փոփոխվող շուկայական պայմաններին։
-Ավելին, քննադատական մտածողությունը խթանում է ստեղծագործականությունը և նորարարությունը։ Կասկածի տակ դնելով ստատուս քվոն և ուսումնասիրելով նոր գաղափարներ՝ մարդիկ կարող են նպաստել իրենց ոլորտի առաջընթացին։ Սա հատկապես արդիական է այսօրվա արագ զարգացող տեխնոլոգիական աշխարհում, որտեղ որոշակի շրջանակից դուրս մտածելու կարողությունը կարող է հանգեցնել բեկումնային բացահայտումների և լուծումների։
-Բացի մասնագիտական կիրառությունից, քննադատական մտածողությունը կարևոր է քաղաքացիական ակտիվության և սոցիալական առաջընթացի համար։ Հարցականի տակ դնելով լրատվամիջոցների և քաղաքական աղբյուրների ներկայացրած տեղեկատվությունը՝ մարդիկ կարող են ավելի իրազեկված որոշումներ կայացնել այնպիսի կարևոր հարցերի վերաբերյալ, ինչպիսիք են քվեարկությունը և քաղաքականության մշակումը։ Սա թույլ է տալիս երաշխավորել, որ քաղաքացիները չեն ենթարկվի ապատեղեկատվության կամ քարոզչության ազդեցությանը, և որ նրանց ընտրությունը հիմնված կլինի փաստերը խորությամբ հասկանալու վրա։
-Ժամանակակից աշխարհում քննադատական մտածողության կարևորությունը հնարավոր չէ գերագնահատել։ Քանի որ փոփոխությունների տեմպերն արագանում են և աճում են տեղեկատվության ծավալները, քննադատորեն մտածելու կարողությունը դարձել է հաջողության և անձնական աճի համար անհրաժեշտ հմտություն։ Կրթության մեջ խթանելով քննադատական մտածողության հմտությունները և խրախուսելով դրանց կիրառումը կյանքի բոլոր ոլորտներում՝ մենք կարող ենք մարդկանց մղել ավելի հիմնավոր որոշումներ կայացնելուն, նպաստել հասարակության առաջընթացին և հաջողակ լինել անընդհատ բարդացող աշխարհում։
+# parallel_id = p_ARI-12-translatum-AB01
 # text_en = The Importance of Critical Thinking in the Modern World
 In today's rapidly evolving world, the ability to think critically has become increasingly essential. Critical thinking involves the objective analysis and evaluation of information to form a judgment. It allows individuals to question assumptions, consider multiple perspectives, and arrive at well-reasoned conclusions. This skill is crucial in various aspects of life, from personal decision-making to professional success and societal progress.
 One of the primary benefits of critical thinking is its ability to enhance problem-solving skills. By breaking down complex issues into manageable components and considering alternative solutions, individuals can make more informed and effective decisions. This is particularly important in fields such as business, where leaders must navigate challenging situations and adapt to changing market conditions.
 Moreover, critical thinking fosters creativity and innovation. By questioning the status quo and exploring new ideas, individuals can contribute to the advancement of their respective fields. This is especially relevant in today's rapidly evolving technological landscape, where the ability to think outside the box can lead to groundbreaking discoveries and solutions.
 In addition to its professional applications, critical thinking is essential for active citizenship and social progress. By questioning the information presented by media and political sources, individuals can make more informed decisions about important issues such as voting and policy-making. This helps to ensure that citizens are not swayed by misinformation or propaganda, and that their choices are based on a thorough understanding of the facts.
 In conclusion, the importance of critical thinking in the modern world cannot be overstated. As the pace of change accelerates and the volume of information increases, the ability to think critically has become a necessary skill for success and personal growth. By fostering critical thinking skills in education and encouraging their application in all aspects of life, we can empower individuals to make more informed decisions, contribute to societal progress, and thrive in an increasingly complex world.
+# text_hy = Քննադատական մտածողության կարևորությունը ժամանակակից աշխարհում
+Ժամանակակից արագ զարգացող աշխարհում քննադատաբար մտածելու կարողությունն ավելի ու ավելի կարևոր է դառնում։ Քննադատական մտածողությունը ենթադրում է տեղեկատվության օբյեկտիվ վերլուծություն և գնահատում՝ դատողություն ձևավորելու համար։ Այն մարդկանց թույլ է տալիս կասկածի տակ դնել ենթադրությունները, կանխորոշել բազմաթիվ գործընթացներ և հանգել հիմնավորված եզրակացությունների։ Այս հմտությունը կարևոր է կյանքի տարբեր իրավիճակներում՝ անձնական որոշումներ կայացնելուց մինչև մասնագիտական հաջողություններ և հասարակական առաջընթաց։
+Քննադատական մտածողության հիմնական առավելություններից մեկը խնդիրների լուծման հմտություններ զարգացնելու կարողությունն է։ Բարդ խնդիրները բաժանելով կառավարելի բաղադրիչների և դիտարկելով այլընտրանքային լուծումներ՝ մարդիկ կարող են ավելի հիմնավոր և արդյունավետ որոշումներ կայացնել։ Սա հատկապես կարևոր է այնպիսի ոլորտներում, ինչպիսին բիզնեսն է, որտեղ ղեկավարները պետք է կողմնորոշվեն դժվար իրավիճակներում և հարմարվեն փոփոխվող շուկայական պայմաններին։
+Ավելին, քննադատական մտածողությունը խթանում է ստեղծագործականությունը և նորարարությունը։ Կասկածի տակ դնելով ստատուս քվոն և ուսումնասիրելով նոր գաղափարներ՝ մարդիկ կարող են նպաստել իրենց ոլորտի առաջընթացին։ Սա հատկապես արդիական է այսօրվա արագ զարգացող տեխնոլոգիական աշխարհում, որտեղ որոշակի շրջանակից դուրս մտածելու կարողությունը կարող է հանգեցնել բեկումնային բացահայտումների և լուծումների։
+Բացի մասնագիտական կիրառությունից, քննադատական մտածողությունը կարևոր է քաղաքացիական ակտիվության և սոցիալական առաջընթացի համար։ Հարցականի տակ դնելով լրատվամիջոցների և քաղաքական աղբյուրների ներկայացրած տեղեկատվությունը՝ մարդիկ կարող են ավելի իրազեկված որոշումներ կայացնել այնպիսի կարևոր հարցերի վերաբերյալ, ինչպիսիք են քվեարկությունը և քաղաքականության մշակումը։ Սա թույլ է տալիս երաշխավորել, որ քաղաքացիները չեն ենթարկվի ապատեղեկատվության կամ քարոզչության ազդեցությանը, և որ նրանց ընտրությունը հիմնված կլինի փաստերը խորությամբ հասկանալու վրա։
+Ժամանակակից աշխարհում քննադատական մտածողության կարևորությունը հնարավոր չէ գերագնահատել։ Քանի որ փոփոխությունների տեմպերն արագանում են և աճում են տեղեկատվության ծավալները, քննադատորեն մտածելու կարողությունը դարձել է հաջողության և անձնական աճի համար անհրաժեշտ հմտություն։ Կրթության մեջ խթանելով քննադատական մտածողության հմտությունները և խրախուսելով դրանց կիրառումը կյանքի բոլոր ոլորտներում՝ մենք կարող ենք մարդկանց մղել ավելի հիմնավոր որոշումներ կայացնելուն, նպաստել հասարակության առաջընթացին և հաջողակ լինել անընդհատ բարդացող աշխարհում։
 
 # index_est_score = ARI-13
 # doc_id = ARI-13-translatum
 # newtext_id = ARI-13-translatum-AB01
-# parallel_id = p/ARI-13-translatum-AB01
-# text = Վտանգ, որ սպառնում է բանաններին
-1950-ականներին Կենտրոնական Ամերիկայի՝ վաճառքի նպատակով բանան մշակողները կանգնեցին իրենց ամենաեկամտաբեր արտադրանքի՝ «Գրոս Միշել» բանանի վերացման խնդրի առաջ, որը հայտնի էր «Բիգ Մայք» անունով։ Եվ հիմա նույնը տեղի է ունենում «Բիգ Մայք»-ին փոխարինած «Կավենդիշ»-ի հետ։
-«Գրոս Միշել» բանանի բույսը գերակշռում էր Կենտրոնական Ամերիկայի պլանտացիաներում իր՝ տեղափոխելու առումով հարմար հաստ կեղևի և քաղցրահամ պտուղների շնորհիվ։ «Յունայթիդ ֆրութ»-ը, որն այն ժամանակ Հարավային Ամերիկայում բանանի հիմնական մշակողն ու արտահանողն էր, մեծ քանակությամբ բանանի բերք ստացավ հնարավորինս արդյունավետ եղանակով. ընկերությունը սերմերից բույսեր աճեցնելու փոխարեն բույսերի ցողուններից կլոնավորեց ընձյուղներ ու սկսեց մշակել դրանք խիտ տնկված դաշտերում։
-Ցավոք, այս պայմանները կատարյալ են նաև Fusarium oxysporum f. sp. cubense սնկերի տարածման համար, որը վնասում է բույսի արմատները և թույլ չի տալիս, որպեսզի ջուրն անցնի ցողուն ու տերևներ։ Սնկերի TR-1 շտամը դիմացկուն գտնվեց մշակաբույսերի սրսկումների նկատմամբ և տարածվեց կոշիկների կամ բեռնատարների անվադողերի միջոցով՝ դանդաղ վարակելով ամբողջ տարածաշրջանի պլանտացիաները։ Փորձելով խուսափել սնկի տարածումից՝ ֆերմերները լքեցին վարակված ցանքատարածությունները, հեղեղեցին դրանք, ապա մշակաբույսերը վերատնկեցին այլ վայրերում՝ հաճախ դրա համար հատելով տրոպիկական անտառներ։
-Նրանց ջանքերը ձախողվեցին։ Փոխարենը նրանք սկսեցին փնտրել բանանի մշակաբույսի այնպիսի տեսակ, որի վրա սունկը չէր ազդում։ Բրիտանացի մի դուքսի ջերմոցում նրանք գտան այսպես կոչված «Կավենդիշ»-ը։ Այն այդքան էլ հարմար չէր փոխադրման առումով, որքան «Գրոս Միշել»-ը, բայց դրա պտուղները սպառողներին գոհացնելու համար բավականին համեղ էին։ Ամենակարևորն այն էր, որ TR-1-ը կարծես թե չազդեց դրա վրա։ Մի քանի տարվա ընթացքում «Յունայթիդ ֆրութ»-ը փրկեց իրեն սնանկությունից՝ լցնելով իր պլանտացիաները հազարավոր նոր մշակաբույսերով՝ կրկնօրինակելով մոնոմշակույթների աճեցման նույն պայմանները, որոնցում «Գրոս Միշել»-ը շատ լավ էր աճում։
-Թեև այս գործողությունը մեծ հաջողություն էր Լատինական Ամերիկայի արդյունաբերության համար, բայց «Կավենդիշ» բանանն էլ պաշտպանված չէ։ 2014 թվականին Հարավարևելյան Ասիան՝ բանանի մեկ այլ խոշոր արտադրող, արտահանեց չորս միլիոն տոննա «Կավենդիշ» բանան։ Սակայն 2015 թվականին դրա արտահանումը կրճատվեց 46 տոկոսով՝ սնկերի մեկ այլ շտամի՝ TR-4-ի և վատ եղանակի պատճառով։
-Հարավարևելյան Ասիայում աճեցնելու պրակտիկան չի օգնել խնդրին։ Աճեցնողները միշտ չէ, որ կարող են իրենց թույլ տալ բույսերը ցողունից կլոնավորելու թանկարժեք լաբորատոր մեթոդներ՝ առանց հիվանդությունը տարածելու։ Բացի այդ, նրանք հաճախ բավականաչափ խստապահանջ չեն գյուղատնտեսական սարքավորումները մաքրելու և վարակված դաշտերը կարանտինի մեջ պահելու հարցում։ Արդյունքում, սունկն արդեն տարածվել է Ավստրալիայում, Մերձավոր Արևելքում և Մոզամբիկում, և Լատինական Ամերիկան, որը մեծապես կախված է իր մոնոմշակութային «Կավենդիշ» մշակաբույսից, հանգիստ կարող է հաջորդը լինել։
-Պայքարելով անխուսափելիի դեմ՝ գիտնականներն աշխատում են խնդրի լուծման ուղղությամբ՝ գենետիկորեն մոդիֆիկացնելով «Կավենդիշ»-ը TR-4-ի նկատմամբ դիմացկուն բանանի սորտերի գեներով։ Քվինսլենդի տեխնոլոգիական համալսարանի գիտնականները հաջողությամբ աճեցրել են երկու տեսակի մոդիֆիկացված բույս, որոնք արդեն 3 տարի է՝ չեն վարակվել։ Սակայն որոշ փորձագետներ կարծում են, որ սա ընդամենը խնդրի՝ իրական «Կավենդիշ»-ի միջոցով արված նույն ժամանակավոր լուծման բարդ տարբերակն է։ Եթե նոր բանանները տնկվեն նույն մոնոմշակույթներում, ինչպես մինչ այդ «Կավենդիշ»-ն ու «Գրոս Միշել»-ը, կա ռիսկ, որ հիվանդության մեկ այլ շտամ կարող է առաջանալ և սպառնալ նաև մոդիֆիկացված մշակաբույսերին։
+# parallel_id = p_ARI-13-translatum-AB01
 # text_en = A threat to bananas
 In the 1950s, Central American commercial banana growers were facing the death of their most lucrative product, the Gros Michel banana, known as Big Mike. And now it’s happening again to Big Mike’s successor – the Cavendish.
 With its easily transported, thick-skinned and sweet-tasting fruit, the Gros Michel banana plant dominated the plantations of Central America. United Fruit, the main grower and exporter in South America at the time, mass-produced its bananas in the most efficient way possible: it cloned shoots from the stems of plants instead of growing plants from seeds, and cultivated them in densely packed fields.
@@ -243,21 +267,19 @@ Their efforts failed. So, instead, they searched for a variety of banana that th
 While the operation was a huge success for the Latin American industry, the Cavendish banana itself is far from safe. In 2014, South East Asia, another major banana producer, exported four million tons of Cavendish bananas. But, in 2015, its exports had dropped by 46 per cent thanks to a combination of another strain of the fungus, TR-4, and bad weather.
 Growing practices in South East Asia haven’t helped matters. Growers can’t always afford the expensive lab-based methods to clone plants from shoots without spreading the disease. Also, they often aren’t strict enough about cleaning farm equipment and quarantining infected fields. As a result, the fungus has spread to Australia, the Middle East and Mozambique – and Latin America, heavily dependent on its monoculture Cavendish crops, could easily be next.
 Racing against the inevitable, scientists are working on solving the problem by genetically modifying the Cavendish with genes from TR-4-resistant banana species. Researchers at the Queensland University of Technology have successfully grown two kinds of modified plant which have remained resistant for three years so far. But some experts think this is just a sophisticated version of the same temporary solution the original Cavendish provided. If the new bananas are planted in the same monocultures as the Cavendish and the Gros Michel before it, the risk is that another strain of the disease may rise up to threaten the modified plants too.
+# text_hy = Վտանգ, որ սպառնում է բանաններին
+1950-ականներին Կենտրոնական Ամերիկայի՝ վաճառքի նպատակով բանան մշակողները կանգնեցին իրենց ամենաեկամտաբեր արտադրանքի՝ «Գրոս Միշել» բանանի վերացման խնդրի առաջ, որը հայտնի էր «Բիգ Մայք» անունով։ Եվ հիմա նույնը տեղի է ունենում «Բիգ Մայք»-ին փոխարինած «Կավենդիշ»-ի հետ։
+«Գրոս Միշել» բանանի բույսը գերակշռում էր Կենտրոնական Ամերիկայի պլանտացիաներում իր՝ տեղափոխելու առումով հարմար հաստ կեղևի և քաղցրահամ պտուղների շնորհիվ։ «Յունայթիդ ֆրութ»-ը, որն այն ժամանակ Հարավային Ամերիկայում բանանի հիմնական մշակողն ու արտահանողն էր, մեծ քանակությամբ բանանի բերք ստացավ հնարավորինս արդյունավետ եղանակով. ընկերությունը սերմերից բույսեր աճեցնելու փոխարեն բույսերի ցողուններից կլոնավորեց ընձյուղներ ու սկսեց մշակել դրանք խիտ տնկված դաշտերում։
+Ցավոք, այս պայմանները կատարյալ են նաև Fusarium oxysporum f. sp. cubense սնկերի տարածման համար, որը վնասում է բույսի արմատները և թույլ չի տալիս, որպեսզի ջուրն անցնի ցողուն ու տերևներ։ Սնկերի TR-1 շտամը դիմացկուն գտնվեց մշակաբույսերի սրսկումների նկատմամբ և տարածվեց կոշիկների կամ բեռնատարների անվադողերի միջոցով՝ դանդաղ վարակելով ամբողջ տարածաշրջանի պլանտացիաները։ Փորձելով խուսափել սնկի տարածումից՝ ֆերմերները լքեցին վարակված ցանքատարածությունները, հեղեղեցին դրանք, ապա մշակաբույսերը վերատնկեցին այլ վայրերում՝ հաճախ դրա համար հատելով տրոպիկական անտառներ։
+Նրանց ջանքերը ձախողվեցին։ Փոխարենը նրանք սկսեցին փնտրել բանանի մշակաբույսի այնպիսի տեսակ, որի վրա սունկը չէր ազդում։ Բրիտանացի մի դուքսի ջերմոցում նրանք գտան այսպես կոչված «Կավենդիշ»-ը։ Այն այդքան էլ հարմար չէր փոխադրման առումով, որքան «Գրոս Միշել»-ը, բայց դրա պտուղները սպառողներին գոհացնելու համար բավականին համեղ էին։ Ամենակարևորն այն էր, որ TR-1-ը կարծես թե չազդեց դրա վրա։ Մի քանի տարվա ընթացքում «Յունայթիդ ֆրութ»-ը փրկեց իրեն սնանկությունից՝ լցնելով իր պլանտացիաները հազարավոր նոր մշակաբույսերով՝ կրկնօրինակելով մոնոմշակույթների աճեցման նույն պայմանները, որոնցում «Գրոս Միշել»-ը շատ լավ էր աճում։
+Թեև այս գործողությունը մեծ հաջողություն էր Լատինական Ամերիկայի արդյունաբերության համար, բայց «Կավենդիշ» բանանն էլ պաշտպանված չէ։ 2014 թվականին Հարավարևելյան Ասիան՝ բանանի մեկ այլ խոշոր արտադրող, արտահանեց չորս միլիոն տոննա «Կավենդիշ» բանան։ Սակայն 2015 թվականին դրա արտահանումը կրճատվեց 46 տոկոսով՝ սնկերի մեկ այլ շտամի՝ TR-4-ի և վատ եղանակի պատճառով։
+Հարավարևելյան Ասիայում աճեցնելու պրակտիկան չի օգնել խնդրին։ Աճեցնողները միշտ չէ, որ կարող են իրենց թույլ տալ բույսերը ցողունից կլոնավորելու թանկարժեք լաբորատոր մեթոդներ՝ առանց հիվանդությունը տարածելու։ Բացի այդ, նրանք հաճախ բավականաչափ խստապահանջ չեն գյուղատնտեսական սարքավորումները մաքրելու և վարակված դաշտերը կարանտինի մեջ պահելու հարցում։ Արդյունքում, սունկն արդեն տարածվել է Ավստրալիայում, Մերձավոր Արևելքում և Մոզամբիկում, և Լատինական Ամերիկան, որը մեծապես կախված է իր մոնոմշակութային «Կավենդիշ» մշակաբույսից, հանգիստ կարող է հաջորդը լինել։
+Պայքարելով անխուսափելիի դեմ՝ գիտնականներն աշխատում են խնդրի լուծման ուղղությամբ՝ գենետիկորեն մոդիֆիկացնելով «Կավենդիշ»-ը TR-4-ի նկատմամբ դիմացկուն բանանի սորտերի գեներով։ Քվինսլենդի տեխնոլոգիական համալսարանի գիտնականները հաջողությամբ աճեցրել են երկու տեսակի մոդիֆիկացված բույս, որոնք արդեն 3 տարի է՝ չեն վարակվել։ Սակայն որոշ փորձագետներ կարծում են, որ սա ընդամենը խնդրի՝ իրական «Կավենդիշ»-ի միջոցով արված նույն ժամանակավոր լուծման բարդ տարբերակն է։ Եթե նոր բանանները տնկվեն նույն մոնոմշակույթներում, ինչպես մինչ այդ «Կավենդիշ»-ն ու «Գրոս Միշել»-ը, կա ռիսկ, որ հիվանդության մեկ այլ շտամ կարող է առաջանալ և սպառնալ նաև մոդիֆիկացված մշակաբույսերին։
 
 # index_est_score = ARI-14
 # doc_id = ARI-14-translatum
 # newtext_id = ARI-14-translatum-AB01
-# parallel_id = p/ARI-14-translatum-AB01
-# text = Դրական կարծիք հայտնելը և ստանալը
-Ձեր ղեկավարը կանգնեցնում է Ձեզ և ասում, որ պետք է խոսի Ձեզ հետ վերջին նախագծում Ձեր կատարողականի մասին։ Դուք անհանգստանում եք ողջ հանգստյան օրերի ընթացքում՝ մտածելով, թե ինչ սխալ եք թույլ տվել։ Երբ երկուշաբթի առավոտյան մտնում եք նրա աշխատասենյակ, նա սկսում է գովել Ձեզ նախագծում կատարած լավ աշխատանքի համար, իսկ Դուք մտածում եք՝ երևի սա այն պարտադիր գովաբանությունն է, որով սովորաբար սկսվում է «բացասական կարծիքի սենդվիչը»։ Հավանաբար գիտեք, թե ինչպես է այն աշխատում՝ ասել մի լավ բան, հետո ասել այն, ինչ իսկապես ուզում եք ասել, նորից ասել մի լավ բան։
-Փորձելով որոշակի դրական շեշտադրումներ անել իրենց կարծիքում՝ շատ ղեկավարներ բացասական կարծիքը հայտնում են երկու դրական մեկնաբանությունների միջև։ Այնուամենայնիվ, երբ կարծիք տալը դառնում է սովորական աշխատանքային պրակտիկա, աշխատակիցները սկսում են դրական կարծիքն ընկալել որպես բացասականը գեղեցիկ փաթեթավորելու ձև՝ նվազեցնելով դրա արժեքը։ Դրական կարծիքը չպետք է պարզապես դիտարկվի բացասականը մեղմելու միջոց, այլ պետք է մատուցվի այնպես, որ քաջալերի և խրախուսի լավ աշխատանքը։ Ահա երեք խորհուրդ, որոնք կօգնեն ձեզ կարևորել դրական կարծիքը.
-1. Ոչ միշտ հայտնեք բացասական կարծիք դրականից հետո
-Երբ դրական և բացասական կարծիքները միշտ կողք կողքի են արտահայտվում, դրականը կարող է արժեզրկվել ու անտեսվել։ Համոզվեք, որ կան դեպքեր, երբ դրական կարծիքները տրվում են հենց դրականի համար և դիմացեք կառուցողական քննադատություն առաջարկելու գայթակղությանը։
-2. Մշակեք «աճելու մտածելակերպ»
-Հոգեբան և «աճելու մտածելակերպի» կողմնակից Քերոլ Դուեքը խոսել է ուղեղի ճկունության և այնպիսի հմտություններ ու տաղանդներ զարգացնելու մեր ունակության մասին, որոնք մեզ մոտ սկզբում կարող են լավ չստացվել։ Մեզնից շատերը հակված են գովաբանել վերջնարդյունքի և թվացյալ բնածին տաղանդների համար, օրինակ. «Դուք հրաշալի նկատում եք մանրուքները» կամ «Դուք միջոցառումներ կազմակերպելու իրական տաղանդ ունեք»։ Բայց և այնպես, հետազոտությունը ցույց է տալիս, որ կենտրոնանալով այն գործընթացի վրա, թե ինչպես է արվում աշխատանքը՝ գովաբանելով ջանքերը, փորձերն ու խնդիրների լուծման ուղիների մշակումը, մենք կարող ենք խթանել նոր հմտությունների զարգացումն ու տաղանդների շարունակական կատարելագործումը։
-3. Ստեղծեք դրական կարծիք արտահայտելու մշակույթ
-Դարձրեք դրական կարծիքը ձեր թիմի, վարչության, ընկերության մշակույթի մաս։ Կարծիք հայտնելու համար մի սպասեք հատուկ պահերի, օրինակ՝ ստուգափորձի արդյունքի։ Հայտնեք դրական կարծիք զրույցի ընթացքում կամ միջանցքով քայլելիս։ Կարծիքը նաև չպետք է լինի միայն ղեկավար կազմի կողմից։ Խրախուսեք թիմի անդամներին և գործընկերներին միմյանց մասին անանուն կարծիք հայտնել, և ակտիվորեն հորդորեք նրանց դրական մեկնաբանություններ տալ մեկը մյուսի առաջադրանքների կատարման վերաբերյալ։
-Կարող է ժամանակ պահանջվել՝ դիմակայելու մի միջավայրի ազդեցությանը, որտեղ դրական կարծիքի նկատմամբ կա ցինիկ վերաբերմունք, բայց երկարաժամկետ հեռանկարում, ընդունելով դրական կարծիքի մշակույթը, դուք կարող եք ոչ միայն բարձրացնել աշխատանքի արդյունավետությունը, այլև բարելավել կյանքի որակն աշխատավայրում։
+# parallel_id = p_ARI-14-translatum-AB01
 # text_en = Giving and receiving positive feedback
 Your manager stops you and says she needs to have a word about your performance in the recent project. You worry about it all weekend, wondering what you might have done wrong. When you step into her office on Monday morning she begins by praising you for the good work you've done on the project, and you wonder if this is the obligatory praise that starts off the typical 'feedback sandwich'. You know how the feedback sandwich goes: say something nice, say what you really want to say, say something nice again.
 In an attempt to inject some positivity into their feedback, many managers rely on sandwiching negative feedback between two positive comments. However, when feedback becomes such a routine, employees can start to perceive positive feedback as simply a form of sugarcoating the negatives, thus diminishing its value. Instead, positive feedback should not simply be seen as something to cushion the negative, but should be delivered so as to reinforce and encourage good performance. Below are three tips to help you make positive feedback count.
@@ -268,3 +290,13 @@ Psychologist and 'growth mindset' proponent Carol Dweck spoke of the plasticity 
 3. Create a culture of offering positive feedback
 Make giving positive feedback part of your team/department/company culture. Don't just wait for special moments like appraisals to give feedback. Offer informal positive feedback when making small talk or when walking down a corridor. Feedback doesn't have to only come from the higher ranks either. Encourage peer feedback among team members and colleagues and actively ask them for positive comments on each other's performances on tasks. 
 It might take time to counter the effects of an environment where there is a cynical view of positive feedback, but in the long run, by embracing positive feedback, you can not only enhance working performance but also enrich the quality of life in the workplace.
+# text_hy = Դրական կարծիք հայտնելը և ստանալը
+Ձեր ղեկավարը կանգնեցնում է Ձեզ և ասում, որ պետք է խոսի Ձեզ հետ վերջին նախագծում Ձեր կատարողականի մասին։ Դուք անհանգստանում եք ողջ հանգստյան օրերի ընթացքում՝ մտածելով, թե ինչ սխալ եք թույլ տվել։ Երբ երկուշաբթի առավոտյան մտնում եք նրա աշխատասենյակ, նա սկսում է գովել Ձեզ նախագծում կատարած լավ աշխատանքի համար, իսկ Դուք մտածում եք՝ երևի սա այն պարտադիր գովաբանությունն է, որով սովորաբար սկսվում է «բացասական կարծիքի սենդվիչը»։ Հավանաբար գիտեք, թե ինչպես է այն աշխատում՝ ասել մի լավ բան, հետո ասել այն, ինչ իսկապես ուզում եք ասել, նորից ասել մի լավ բան։
+Փորձելով որոշակի դրական շեշտադրումներ անել իրենց կարծիքում՝ շատ ղեկավարներ բացասական կարծիքը հայտնում են երկու դրական մեկնաբանությունների միջև։ Այնուամենայնիվ, երբ կարծիք տալը դառնում է սովորական աշխատանքային պրակտիկա, աշխատակիցները սկսում են դրական կարծիքն ընկալել որպես բացասականը գեղեցիկ փաթեթավորելու ձև՝ նվազեցնելով դրա արժեքը։ Դրական կարծիքը չպետք է պարզապես դիտարկվի բացասականը մեղմելու միջոց, այլ պետք է մատուցվի այնպես, որ քաջալերի և խրախուսի լավ աշխատանքը։ Ահա երեք խորհուրդ, որոնք կօգնեն ձեզ կարևորել դրական կարծիքը.
+1. Ոչ միշտ հայտնեք բացասական կարծիք դրականից հետո
+Երբ դրական և բացասական կարծիքները միշտ կողք կողքի են արտահայտվում, դրականը կարող է արժեզրկվել ու անտեսվել։ Համոզվեք, որ կան դեպքեր, երբ դրական կարծիքները տրվում են հենց դրականի համար և դիմացեք կառուցողական քննադատություն առաջարկելու գայթակղությանը։
+2. Մշակեք «աճելու մտածելակերպ»
+Հոգեբան և «աճելու մտածելակերպի» կողմնակից Քերոլ Դուեքը խոսել է ուղեղի ճկունության և այնպիսի հմտություններ ու տաղանդներ զարգացնելու մեր ունակության մասին, որոնք մեզ մոտ սկզբում կարող են լավ չստացվել։ Մեզնից շատերը հակված են գովաբանել վերջնարդյունքի և թվացյալ բնածին տաղանդների համար, օրինակ. «Դուք հրաշալի նկատում եք մանրուքները» կամ «Դուք միջոցառումներ կազմակերպելու իրական տաղանդ ունեք»։ Բայց և այնպես, հետազոտությունը ցույց է տալիս, որ կենտրոնանալով այն գործընթացի վրա, թե ինչպես է արվում աշխատանքը՝ գովաբանելով ջանքերը, փորձերն ու խնդիրների լուծման ուղիների մշակումը, մենք կարող ենք խթանել նոր հմտությունների զարգացումն ու տաղանդների շարունակական կատարելագործումը։
+3. Ստեղծեք դրական կարծիք արտահայտելու մշակույթ
+Դարձրեք դրական կարծիքը ձեր թիմի, վարչության, ընկերության մշակույթի մաս։ Կարծիք հայտնելու համար մի սպասեք հատուկ պահերի, օրինակ՝ ստուգափորձի արդյունքի։ Հայտնեք դրական կարծիք զրույցի ընթացքում կամ միջանցքով քայլելիս։ Կարծիքը նաև չպետք է լինի միայն ղեկավար կազմի կողմից։ Խրախուսեք թիմի անդամներին և գործընկերներին միմյանց մասին անանուն կարծիք հայտնել, և ակտիվորեն հորդորեք նրանց դրական մեկնաբանություններ տալ մեկը մյուսի առաջադրանքների կատարման վերաբերյալ։
+Կարող է ժամանակ պահանջվել՝ դիմակայելու մի միջավայրի ազդեցությանը, որտեղ դրական կարծիքի նկատմամբ կա ցինիկ վերաբերմունք, բայց երկարաժամկետ հեռանկարում, ընդունելով դրական կարծիքի մշակույթը, դուք կարող եք ոչ միայն բարձրացնել աշխատանքի արդյունավետությունը, այլև բարելավել կյանքի որակն աշխատավայրում։
