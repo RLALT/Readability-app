@@ -56,7 +56,6 @@ Just like you! Ha, ha! You said the monkey was just like you; I think you must b
 — Ինձ նման։
 — Քեզ նմա՞ն։ Հա՜-հա՜, դու ասացիր, որ կապիկը քեզ նման է, եթե այն քեզ նման է, ուրեմն ինքդ ես փոքրիկ կապիկ։
 
-
 # newtext_id = ARI-01-translatum-AA02
 # parallel_id = p_ARI-01-translatum-AA02
 # text_en = Ethan’s Bike Ride
@@ -67,7 +66,7 @@ Ethan checked the buckle. “Yes!” he said.
 “Okay,” mom said. “But you must come home before it gets dark. It’s not safe to ride at night in the dark.” Mom smiled. “Have fun!” she said.
 “Really? Wow, thanks!” Ethan turned the blue bike around and rode to the edge of the driveway before Mom could change her mind.
 Ethan looked both sides before he rode into the street. The park was only two blocks away. Ethan was careful to stay in the bike lane.
-At the end of the street, Ethan had to turn right to get to the park. He lifted his arm up to make the signal so cars would know where he was going. 
+At the end of the street, Ethan had to turn right to get to the park. He lifted his arm up to make the signal so cars would know where he was going.
 When he got to the park, he slowed down. He parked his bike at the bike rack near the picnic table. He put his helmet in the bike basket and ran off to find his friends.
 Connie was playing hopscotch near the swings. “Guess what?” Ethan said. “I rode my bike here all by myself!”
 “Me too!” Connie said. “Now we can ride around the neighborhood together!”
@@ -214,7 +213,7 @@ When the elephant got back to the special staircase, Nancy climbed back down to 
 Փիղը շատ բարձր էր։ Նույնիսկ հայրիկը պետք է վեր նայեր՝ տեսնելու նրա դեմքը։
 Փղի մեջքին ծածկոց կար։ Ծածկոցի վրա կար բռնակով փոքրիկ նստարան։
 — Ուզո՞ւմ ես փիղ նստել, Նենսի,— հարցրեց հայրիկը.
-Նենսին նորից թռչկոտեց։ 
+Նենսին նորից թռչկոտեց։
 — Այո՜,— բացականչեց նա։
 Հայրիկը վճարեց փղերին հսկող մարդուն։ Նենսին բարձրացավ հատուկ սանդուղքով, որպեսզի կարողանա հասնել փղի մեջքին։ Այդ մարդն օգնեց նրան տեղավորվել հատուկ նստարանի վրա։
 — Ամուր բռնիր,— ասաց նա։
@@ -275,21 +274,21 @@ Paul smiled. His birthday was turning out to be a wonderful day after all.
 # newtext_id = ARI-03-translatum-AA01
 # parallel_id = p_ARI-03-translatum-AA01
 # text_en = The Long Walk
-Jimmy loved ice cream. It was his favorite dessert. He wanted to eat ice cream all the time. His parents let him have a small dish each night after dinner, if he ate all of his vegetables. At home, Jimmy usually had chocolate or vanilla. His mother scooped it out of the carton and into his bowl. 
+Jimmy loved ice cream. It was his favorite dessert. He wanted to eat ice cream all the time. His parents let him have a small dish each night after dinner, if he ate all of his vegetables. At home, Jimmy usually had chocolate or vanilla. His mother scooped it out of the carton and into his bowl.
 Jimmy liked eating ice cream at home, but he really loved going to the ice cream stand to get an ice cream cone. There were so many different flavors to try! Jimmy always did his best to try a new kind of ice cream each time.
-When Jimmy turned eight, he had a checkup at the doctor’s office. Dr. Katz said that ice cream wasn’t a very healthy snack. “It’s fine to have a little ice cream once in a while, but not every night,” she said. 
+When Jimmy turned eight, he had a checkup at the doctor’s office. Dr. Katz said that ice cream wasn’t a very healthy snack. “It’s fine to have a little ice cream once in a while, but not every night,” she said.
 After the doctor’s visit, Jimmy and his mom drove home. “Can I still have ice cream for dessert tonight?” Jimmy asked.
-“I don’t think so, honey,” Mom said. “We should all try to be healthier.” 
+“I don’t think so, honey,” Mom said. “We should all try to be healthier.”
 That night at supper, Jimmy ate all his vegetables. But there was no ice cream for dessert. Instead, Mom came up with a new rule. “If we want to eat ice cream, we’ll have to earn it by walking to the ice cream stand,” she said.
 Jimmy was willing to give it a try, so they decided to take their walk on Saturday afternoon. According to the map, the ice cream stand was a mile away.
-Saturday was a hot and sunny day. Jimmy began to feel sweaty. The sun was so bright that he had to squint his eyes. He kept his eyelids almost all the way closed, with just a small slit to peek out of. 
+Saturday was a hot and sunny day. Jimmy began to feel sweaty. The sun was so bright that he had to squint his eyes. He kept his eyelids almost all the way closed, with just a small slit to peek out of.
 “I’m hot,” said Jimmy. “How much farther is it?”
 Mom checked the map on her phone. “We’re not even halfway yet. Do you want to turn around?”
-Jimmy did want to turn around, but he also wanted ice cream. Walking was the only way to get it. 
+Jimmy did want to turn around, but he also wanted ice cream. Walking was the only way to get it.
 Jimmy and Mom crossed several streets. They passed his school and the playground with the tire swings. Soon they were in a part of town that Jimmy didn’t recognize.
 The sun beat down so strongly that even Mom was sweating. Jimmy’s legs felt heavy. He wanted to sit down, but there were no benches in sight. There were a few trees, but they didn’t do much to shade the sidewalk.
 Jimmy kicked a pebble and watched it bounce into the storm drain. “Mom?” he asked. He was about to quit. He looked up to tell Mom he was ready to turn around.
-But when he did, he could see the purple flag at the top of the ice cream stand. They were almost there! 
+But when he did, he could see the purple flag at the top of the ice cream stand. They were almost there!
 Jimmy started to walk faster. He could almost taste the cool, creamy ice cream already. It was a long walk, but it was definitely worth the trip.
 # text_hy = Երկար զբոսանք
 Ջիմին սիրում էր պաղպաղակ։ Դա նրա սիրելի քաղցրավենիքն էր։ Նա ուզում էր անընդհատ պաղպաղակ ուտել։ Ծնողները նրան թույլ էին տալիս ամեն երեկո ճաշից հետո մի փոքր ուտել, եթե նա ուտեր իր ամբողջ բանջարեղենը։ Ջիմին տանը սովորաբար շոկոլադե կամ վանիլային պաղպաղակ էր ուտում։ Մայրիկն այն հանում էր տուփից և դնում նրա ամանի մեջ։
@@ -326,7 +325,7 @@ After breakfast, Diana took Carl outside to play. She showed him her balloon.
 “For me?” Carl asked. “It’s running out of air.” The green balloon was nice and round, but it sat on the ground.
 Diana picked up the string. “Hold my hand and I’ll show you something.”
 She held the green string in one hand and grabbed Carl’s hand in the other. “Fly us to the farm, balloon,” Diana said.
-Carl gripped Diana’s hand as they floated up off the ground. He didn’t say a word as they flew over the trees and away from their house. His eyes were open wide. 
+Carl gripped Diana’s hand as they floated up off the ground. He didn’t say a word as they flew over the trees and away from their house. His eyes were open wide.
 They were flying very high, but soon Diana saw small black and white animals in a green field. “Down, balloon,” she said. “We want to say hello to the cows.”
 “Those aren’t cows,” said Carl. “They’re small like cats.”
 “That’s just because we’re far away. You’ll see,” said Diana.
@@ -339,7 +338,7 @@ Carl and Diana walked around the field and said hello to each cow. When Carl was
 Դիանան բացեց աչքերը։ Դեռ շատ շուտ էր, բայց նրա փոքր եղբայր Կառլն արդեն արթնացել էր։ Իրո՞ք այսօր Կառլի ծնունդն է։
 Դիանան իջավ ներքև։ Մայրիկը բլիթներ էր պատրաստում ու զարդարում շոկոլադի կտորներով։ Դիանան հասկացավ, որ իսկապես Կառլի ծննդյան օրն է, որովհետև այս բլիթները նրա ամենասիրելին էին։
 Դիանան շատ տխրեց։ Նա մոռացել էր բացիկ պատրաստել Կառլի ծննդյան օրվա առթիվ։ Հիմա արդեն ուշ էր։ Ի՞նչ կարող էր նա անել դրա փոխարեն։
-Նախաճաշին Կառլը կերավ իր բլիթները և սկսեց ձևացնել, իբր ինքը կով է։ 
+Նախաճաշին Կառլը կերավ իր բլիթները և սկսեց ձևացնել, իբր ինքը կով է։
 — Մո՜ւ, ես սիրում եմ շոկոլադ։ Մո՜ւ։
 Դիանայի գլխում մի միտք ծագեց։ Վերջին անգամ, երբ նա ճամփորդում էր իր կանաչ փուչիկով, թռել էր մի ֆերմայի վրայով, որտեղ կովերի նախիր կար։ Կառլը կուզենար մոտիկից կով տեսնել իր ծննդյան օրը։ Կկարողանա՞ր արդյոք փուչիկը երկուսին էլ տանել։ Պարզելու միայն մեկ միջոց կար։
 Նախաճաշից հետո Դիանան Կառլին տարավ դուրս՝ խաղալու։ Նա ցույց տվեց նրան իր փուչիկը։
@@ -413,18 +412,18 @@ Amanda laughed. “That was fun! Thanks for letting me play.”
 # doc_id = ARI-04-translatum
 # newtext_id = ARI-04-translatum-AA01
 # parallel_id = p_ARI-04-translatum-AA01
-# text_en = The bumblebee
+# text_en = The Bumblebee
 One day, Ella opened her back door and looked out. She wanted to go to play outside, but there was a large bumblebee flying around. He was bigger than her thumb, and very fuzzy. She could hear the humming of his wings as he made large figure-eights across the patio.
-Carefully, Ella stepped outside. The bee flew towards Ella and hovered just inches from her nose, wings beating quickly. 
+Carefully, Ella stepped outside. The bee flew towards Ella and hovered just inches from her nose, wings beating quickly.
 Ella crouched down and hid her face in her hands. “Don’t sting me!” she cried. Ella wanted to run, but she her legs wouldn’t move.
-“I am a guard bee,” the bumblebee said. 
+“I am a guard bee,” the bumblebee said.
 Ella was so surprised that the bee spoke that she forgot to be afraid. “What are you guarding?” she asked. “I promise I won’t go near it.”
-The bumblebee made a quick circle around Ella’s head and said, “I’m not keeping you from going anywhere. I’m guarding you.” 
+The bumblebee made a quick circle around Ella’s head and said, “I’m not keeping you from going anywhere. I’m guarding you.”
 Ella wasn’t sure what the guard bee meant, but she decided to walk slowly away from the bumblebee and toward her swing set. The bumblebee followed.
 “I really wish you wouldn’t follow me,” Ella said. “You’re making me nervous.”
 “And I wish people weren’t so afraid of bees,” the guard bee said. “We have plenty of work to do to gather pollen and nectar without worrying about stinging people.”
 Just then, a big dog ran into Ella’s yard. Around his neck was a frayed rope, and he barked loudly at her. The dog ran toward Ella and was about to jump on her. But just as he stood on his hind legs to leap, the guard bee flew right up to the dog and stung him on the nose!
-The dog sat down rubbed his face with his paw. He whimpered. 
+The dog sat down rubbed his face with his paw. He whimpered.
 “Go back home where you belong or I will sting you again,” warned the bumblebee.
 The dog turned and ran. Ella was glad. “Thank you,” she said to the bee.
 “That’s what I’m here for,” the guard bee said. And he flew toward a patch of daisies to gather pollen.
@@ -463,9 +462,9 @@ Cardinal looked up at Robin. Robin was a bit bigger than Cardinal, but he was no
 Robin looked at Cardinal and then down at his own belly. Compared to the red bird’s bright feathers, his own belly didn’t seem very special anymore.
 “Well,” said Robin, “I guess that’s true. But you didn’t have to say it out loud.” Robin’s feelings were a bit hurt. “I was going to tell you that all the best worms are in the middle of the field, not on the edges.”
 Cardinal replied, “I don’t feel safe all the way out there. I need to stay under the tree branches so hawks can’t see my feathers.”
-Robin thought about this. Maybe having such bright feathers wasn’t that fun after all, if it meant that Cardinal had to hide them. Robin felt sorry for Cardinal. “Tell you what,” he said. “You stay here and I’ll bring you a nice worm to eat.” 
+Robin thought about this. Maybe having such bright feathers wasn’t that fun after all, if it meant that Cardinal had to hide them. Robin felt sorry for Cardinal. “Tell you what,” he said. “You stay here and I’ll bring you a nice worm to eat.”
 Robin flew off to the center of the field and began to peck the ground. Soon he had a big worm in his beak. He hopped back over to Cardinal.
-“Here you go!” he said. Robin dropped the worm on the ground in front of Cardinal. 
+“Here you go!” he said. Robin dropped the worm on the ground in front of Cardinal.
 Cardinal nibbled at the worm. “Thank you very much,” he said. “It’s delicious.”
 “You’re welcome,” Robin said. He had a feeling that they would become great friends.
 # text_hy = Ռոբինը և Կարդինալը
@@ -485,7 +484,7 @@ Cardinal nibbled at the worm. “Thank you very much,” he said. “It’s deli
 Ռոբինը մտքերի մեջ ընկավ։ Գուցե այդքան վառ փետուրներ ունենալն, ի վերջո, այնքան էլ զվարճալի չէ, եթե Կարդինալը ստիպված է թաքցնել դրանք։ Ռոբինը խղճաց Կարդինալին։
 — Գիտե՞ս ինչ,— ասաց նա,— դու մնա այստեղ, իսկ ես քեզ մի լավ որդ կբերեմ ուտելու։
 Ռոբինը թռավ դաշտի կենտրոն և սկսեց կտցել։ Շուտով նա, մի մեծ որդ կտուցին, վերադարձավ Կարդինալի մոտ։
-— Ահա,— ասաց նա։ 
+— Ահա,— ասաց նա։
 Ռոբինը որդը գցեց գետնին՝ Կարդինալի առաջ։
 Կարդինալը կտցեց որդը։
 — Շատ շնորհակալ եմ,— ասաց նա,— համեղ է։
@@ -495,7 +494,7 @@ Cardinal nibbled at the worm. “Thank you very much,” he said. “It’s deli
 # doc_id = ARI-05-translatum
 # newtext_id = ARI-05-translatum-AA01
 # parallel_id = p_ARI-05-translatum-AA01
-# text_en = Going to work in the morning
+# text_en = Going to Work in the Morning
 My job is a long distance from my home, almost 50 miles away. I have to wake up early every morning, as I’m always in a rush. There’s never enough time for a relaxed breakfast. At exactly 6:00 AM, I get into my car and start the long drive.
 I usually like driving on the highway more than in the city. During the morning rush hour, though, it’s not very enjoyable. The heavy traffic is a little bit annoying. So I always listen to my favorite classical music CD’s in the car – Chopin, Mozart, and Bach. That cheers me up a lot.
 The drive to work takes about one hour. Going back home in the evening after work takes even longer, maybe around 70 minutes. Lately I’ve been thinking about trying to take the train to work instead of driving. That way, I could still listen to my music with headphones, and even read a novel at the same time.
@@ -506,7 +505,7 @@ The drive to work takes about one hour. Going back home in the evening after wor
 
 # newtext_id = ARI-05-translatum-AA02
 # parallel_id = p_ARI-05-translatum-AA02
-# text_en = The little bird
+# text_en = The Little Bird
 The little bird perched itself on the tree branch outside Vanessa’s bedroom window. It trilled an energetic song as the first pale yellow rays of sunshine peeked over the horizon.
 “Oh my gosh, what is that noise?” she complained to herself, pulling her bed sheets over her head in an attempt to drown out the chirping. It was no use, and she she knew it. The loud tweeting signalled the coming of the day. To confirm it, Vanessa’s mom knocked twice on her door, then came in with a smile. “Time to get up, Sleepyhead,” she whispered. “The early bird catches the worm, you know.”
 “Ugh,” mumbled Vanessa into her pillow. “What does that even mean?”
@@ -641,7 +640,7 @@ Receptionist: Enjoy the rest of your week!
 
 # newtext_id = ARI-06-translatum-AA02
 # parallel_id = p_ARI-06-translatum-AA02
-# text_en = How Artificial Intelligence Is Changing Jobs	
+# text_en = How Artificial Intelligence Is Changing Jobs
 Introduction:
 Artificial Intelligence (AI) has become a hot topic in recent years. It's a technology that's shaking things up, including how we work. This paper will explore how AI is affecting jobs and what we can do about it.
 Reviewing the Literature:
@@ -682,42 +681,42 @@ This part lists all the sources we used to write this paper so you can look them
 
 # newtext_id = ARI-06-translatum-AA03
 # parallel_id = p_ARI-06-translatum-AA03
-# text_en = A sample chapter from "Pride and Prejudice" by Jane Austen, a popular novel in the public domain.
+# text_en = A sample chapter from “Pride and Prejudice” by Jane Austen, a popular novel in the public domain
 It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
-"My dear Mr. Bennet," said his lady to him one day, "have you heard that Netherfield Park is let at last?"
+“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”
 Mr. Bennet replied that he had not.
-"But it is," returned she; "for Mrs. Long has just been here, and she told me all about it."
+“But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”
 Mr. Bennet made no answer.
-"Do not you want to know who has taken it?" cried his wife impatiently.
-"You want to tell me, and I have no objection to hearing it."
+“Do not you want to know who has taken it?” cried his wife impatiently.
+“You want to tell me, and I have no objection to hearing it.”
 This was invitation enough.
-"Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week."
-"What is his name?"
-"Bingley."
-"Is he married or single?"
-"Oh! single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!"
-"How so? how can it affect them?"
-"My dear Mr. Bennet," replied his wife, "how can you be so tiresome! You must know that I am thinking of his marrying one of them."
-"Is that his design in settling here?"
-"Design! nonsense, how can you talk so! But it is very likely that he may fall in love with one of them, and therefore you must visit him as soon as he comes."
-"I see no occasion for that. You and the girls may go, or you may send them by themselves, which perhaps will be still better, for as you are as handsome as any of them, Mr. Bingley might like you the best of the party."
-"My dear, you flatter me. I certainly have had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty."
-"In such cases, a woman has not often much beauty to think of."
-"But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood."
-"It is more than I engage for, I assure you."
-"But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account, for in general, you know, they visit no newcomers. Indeed, you must go, for it will be impossible for us to visit him if you do not."
-"You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy."
-"I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference."
-"They have none of them much to recommend them," replied he; "they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters."
-"Mr. Bennet, how can you abuse your own children in such a way? You take delight in vexing me. You have no compassion for my poor nerves."
-"You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these last twenty years at least."
-"Ah, you do not know what I suffer."
-"But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood."
-"It will be no use to us if twenty such should come, since you will not visit them."
-"Depend upon it, my dear, that when there are twenty, I will visit them all."
+“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”
+“What is his name?”
+“Bingley.”
+“Is he married or single?”
+“Oh! single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!”
+“How so? how can it affect them?”
+“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You must know that I am thinking of his marrying one of them.”
+“Is that his design in settling here?”
+“Design! nonsense, how can you talk so! But it is very likely that he may fall in love with one of them, and therefore you must visit him as soon as he comes.”
+“I see no occasion for that. You and the girls may go, or you may send them by themselves, which perhaps will be still better, for as you are as handsome as any of them, Mr. Bingley might like you the best of the party.”
+“My dear, you flatter me. I certainly have had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.”
+“In such cases, a woman has not often much beauty to think of.”
+“But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”
+“It is more than I engage for, I assure you.”
+“But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account, for in general, you know, they visit no newcomers. Indeed, you must go, for it will be impossible for us to visit him if you do not.”
+“You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy.”
+“I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving her the preference.”
+“They have none of them much to recommend them,” replied he; “they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters.”
+“Mr. Bennet, how can you abuse your own children in such a way? You take delight in vexing me. You have no compassion for my poor nerves.”
+“You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these last twenty years at least.”
+“Ah, you do not know what I suffer.”
+“But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.”
+“It will be no use to us if twenty such should come, since you will not visit them.”
+“Depend upon it, my dear, that when there are twenty, I will visit them all.”
 Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character. Her mind was less difficult to develop. She was a woman of mean understanding, little information, and uncertain temper. When she was discontented, she fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news.
-The above is the opening chapter of "Pride and Prejudice" by Jane Austen. Since this novel was published in 1813, it is in the public domain, and I'm able to provide this sample chapter.
+The above is the opening chapter of “Pride and Prejudice” by Jane Austen. Since this novel was published in 1813, it is in the public domain, and I'm able to provide this sample chapter.
 # text_hy = Հատված Ջեյն Օսթինի «Հպարտություն և նախապաշարմունք» ազատ հասանելիությամբ հանրահայտ վեպից
 Հայտնի ճշմարտություն է, որ միայնակ տղամարդը, որը լավ կարողություն ունի, պետք է ուզենա կին ունենալ։
 Որքան էլ քիչ բան հայտնի լինի այդպիսի տղամարդու զգացմունքների ու հայացքների մասին, երբ նա առաջին անգամ հայտնվում է որևէ միջավայրում, այս ճշմարտությունն այնքան է կարծրացած շրջապատի ընտանիքների մտքերում, որ նա համարվում է նրանց դուստրերից մեկի կամ մյուսի օրինական սեփականությունը։
@@ -865,7 +864,7 @@ But the lady would not make the best of it, and he was unhappy. He ceased to loo
 Նա նորից ներս նայեց, արցունքները դեռ իրենց տեղում էին, կամ ուրիշներն էին զբաղեցրել դրանց տեղը։ «Նա չափազանց շատ է սիրում Վենդիին»,— ասաց նա ինքն իրեն։ Այժմ նա բարկանում էր Վենդիի մայրիկի վրա, որովհետև նա չէր հասկանում, թե ինչու ինքը չի կարող ունենալ Վենդիին։
 Պատճառն այնքան պարզ էր. «Ես նույնպես սիրում եմ նրան։ Չենք կարող երկուսս էլ նրան ունենալ, տիկին»։
 Բայց տիկինն ուրիշ ոչինչ չէր ուզում, և նա տխրեց։ Նա այլևս չէր նայում նրան, բայց նույնիսկ այդ դեպքում նա իրեն հանգիստ չէր տալիս։ Նա սկսեց ցատկել ու ծիծաղելի դեմքեր ընդունել, բայց երբ դադարեց, կարծես տիկինը դեռ իր ներսում էր ու թակում էր։
-— Դե լավ,— վերջապես ասաց նա և թուքը կուլ տվեց։ Հետո բացեց պատուհանը։ 
+— Դե լավ,— վերջապես ասաց նա և թուքը կուլ տվեց։ Հետո բացեց պատուհանը։
 — Արի՛, Թինկ,— բացականչեց նա՝ սաստիկ հեգնելով բնության օրենքները,— մեզ հիմար մայրեր պետք չեն,— և թռավ։
 
 # index_est_score = ARI-08
@@ -906,7 +905,7 @@ Your Medical History: You've had these bad headaches since your 20s. They happen
 On top of that, your lower back has been hurting for the past five years. It's a constant, dull ache, and it gets worse when you sit or stand for a while. You haven't done anything specific to treat it.
 Your Family's Health: Your mom and sister also get those really bad headaches.
 Your Daily Life: You don't smoke, and you only drink alcohol once in a while. You work in an office, so you sit at a desk for long hours.
-How You're Feeling: 
+How You're Feeling:
 - Headache: Those intense headaches you talked about.
 - Back Pain: That constant backache.
 - Feeling Sick: Feeling nauseous when you have those bad headaches.
@@ -915,7 +914,7 @@ How You're Feeling:
 - Sleep: You're sleeping okay.
 - Nervous System: No numbness, tingling, or weakness.
 - Stomach: Your stomach is fine.
-What We Checked: 
+What We Checked:
 - Overall: You look healthy and not in any sudden trouble.
 - Nervous System: Everything seems fine here.
 - Muscles and Bones: We noticed some tender spots in your lower back muscles. You can't move your lower back much because of the pain.
@@ -1064,7 +1063,7 @@ news writing isn't just about reporting news; it's about revealing truths, holdi
 1. Watching Over Power:
 news writing acts as a watchdog for our democracy. It helps uncover corruption, abuse of power, and injustices that might otherwise stay hidden. By bringing these issues to light, news writing ensures that people in charge are honest and transparent.
 2. Adding Context and Perspective:
-In a world full of information, news writing helps us make sense of things. It provides background information, expert opinions, and historical context to help us understand complicated issues. Instead of just telling us "what happened," news writing explains "why" and "how."
+In a world full of information, news writing helps us make sense of things. It provides background information, expert opinions, and historical context to help us understand complicated issues. Instead of just telling us “what happened,” news writing explains “why” and “how.”
 3. Empowering Well-Informed Citizens:
 Informed citizens are the heart of democracy. news writing gives us the knowledge to make informed choices about our communities and the world. It helps us take part in discussions about important topics and be active in our society.
 4. Sharing Human Stories:
@@ -1111,13 +1110,13 @@ Driving a car involves a mix of knowing how things work, driving skills, and fol
 Components of a Car:
 1. Engine:
 The engine is like the car's heart. It can run on gasoline, diesel, or electricity. To start it:
-- Put the key in and turn it to "On."
+- Put the key in and turn it to “On.”
 - Push the clutch (for manual) or the brake (for automatic).
-- Turn the key to "Start."
+- Turn the key to “Start.”
 2. Transmission:
 Cars have either manual (you shift gears) or automatic (it shifts for you) transmissions:
 - Manual: Press the clutch, select the gear, and slowly release the clutch while stepping on the gas.
-- Automatic: Move the gear lever to "Drive" and release the brake to move.
+- Automatic: Move the gear lever to “Drive” and release the brake to move.
 3. Steering:
 The steering wheel helps you steer the car. Turning it directs where the car goes. Always use both hands and grip it firmly.
 4. Pedals:
@@ -1200,7 +1199,7 @@ Driving a car involves understanding how it works, being a safe driver, and main
 
 # newtext_id = ARI-09-translatum-AA06
 # parallel_id = p_ARI-09-translatum-AA06
-# text_en = Adventure travel
+# text_en = Adventure Travel
 Time for an adventure?
 Are you a bit bored with your nine-to-five routine? Have a look at our exciting range of holidays and decide what type of adventure you'd like.
 Activity holidays
@@ -1302,7 +1301,7 @@ From that day forward, Emma became known as the guardian of Whispering Woods, an
 
 # newtext_id = ARI-10-translatum-AA04
 # parallel_id = p_ARI-10-translatum-AA04
-# text_en = Your digital footprint
+# text_en = Your Digital Footprint
 Every time you go online you leave a trail. This is just like a real footprint. It reveals where you’ve been, how long you stayed and what you’ve been doing there. Every time you register for an online service, send an email, download a video or upload a photo, the information can be accessed and your digital footprint can be revealed. This shouldn’t necessarily be worrying but it is advisable to be aware of your digital footprint and to be cautious and sensible when you are online.
 Six top tips for taking care of your digital footprint
 Don’t forget to log off when you leave a website, especially if you are using a shared computer. If you don’t, someone can easily pretend to be you!
@@ -1335,7 +1334,7 @@ The pandemic started mildly, in the spring of 1918, but was followed by a much m
 A third wave occurred in the winter and spring of 1919, and a fourth, smaller wave occurred in a few areas in spring 1920. Initial symptoms of the flu were typical: sore throat, headache, and fever. The flu often progressed rapidly to cause severe pneumonia and sometimes hemorrhage in the lungs and mucus membranes. A characteristic feature of severe cases of the Spanish Flu was heliotrope cyanosis, where the patient’s face turned blue from lack of oxygen in the cells. Death usually followed within hours or days.
 Modern medicine such as vaccines, antivirals, and antibiotics for secondary infections were not available at that time, so medical personnel couldn’t do much more than try to relieve symptoms.
 The flu ended when it had infected enough people that those who were susceptible had either died or developed immunity.
-# text_hy = Իսպանական գրիպի 1918թ. համաճարակը 
+# text_hy = Իսպանական գրիպի 1918թ. համաճարակը
 Ժամանակակից պատմության, գուցեև բոլոր ժամանակների, ամենամահաբեր վիրուսը 1918 թվականի իսպանական գրիպն էր։ Դրա հետևանքով ամբողջ աշխարհում մահացավ մոտ 20-50 միլիոն մարդ, հնարավոր է՝ ավելի շատ։ Մահացածների ընդհանուր թիվն անհայտ է, որովհետև շատ վայրերում բժշկական փաստաթղթեր չեն պահպանվել։
 Համաճարակը սկսվեց Առաջին համաշխարհային պատերազմի ժամանակ և ոչնչացրեց զորքերը։ ԱՄՆ-ում, օրինակ, գրիպից ավելի շատ զինծառայողներ են մահացել, քան հենց պատերազմից։ Իսպանական գրիպը շատ վիրուսներից ավելի մահացու էր երիտասարդների համար։
 Համաճարակը սկսվեց հանդարտ, 1918թ.-ի գարնանը, բայց դրան հաջորդեց շատ ավելի մեծ ալիք 1918թ.-ի աշնանը։ Պատերազմը, հավանաբար, նպաստեց մահացության թվերի աճին, որովհետև մեծ բռնկումներ տեղի ունեցան փոքր կացարաններում ապրող զինվորների շրջանում։ Վատ սնունդը և պատերազմական ճամբարների հակասանիտարական պայմաններն ունեցան իրենց ազդեցությունը։
@@ -1350,7 +1349,7 @@ Once upon a time, in the picturesque town of Willowbrook, nestled amidst rolling
 Amelia possessed a locket, a family heirloom that had been passed down through generations. The locket was exquisite, adorned with intricate engravings and studded with a single sapphire gem. It held within it a tiny, hidden compartment, the contents of which had remained a mystery for as long as Amelia could remember.
 It was said that the locket possessed the power to reveal one's deepest desires, but only to those who were pure of heart and genuinely sought the truth. For years, Amelia had contemplated opening the locket, but fear of what it might reveal had always held her back.
 One crisp autumn morning, as the leaves began to turn shades of gold and crimson, Amelia decided that the time had come to unlock the secrets of the locket. She had grown restless, longing to discover the truth that had eluded her for so long.
-With trembling hands, she delicately clasped the locket and whispered, "Reveal to me what lies within my heart." Slowly, as if guided by an invisible force, the locket opened, revealing a tiny, shimmering scroll. With bated breath, Amelia unfurled the scroll and began to read.
+With trembling hands, she delicately clasped the locket and whispered, “Reveal to me what lies within my heart.” Slowly, as if guided by an invisible force, the locket opened, revealing a tiny, shimmering scroll. With bated breath, Amelia unfurled the scroll and began to read.
 The words on the scroll were both astonishing and unsettling. It revealed a prophecy, one that foretold a great destiny for Amelia. She was destined to embark on a perilous journey, facing trials and challenges that would test her courage and resolve. The fate of her town and its people rested on her shoulders, for she alone possessed the power to save them from an impending catastrophe.
 Amelia was both awestruck and terrified by the prophecy. The weight of her newfound destiny bore down on her like an immense burden. She knew that she could no longer ignore the call to action, but the path ahead was shrouded in uncertainty.
 With unwavering determination, Amelia set out on her quest, her locket as her only guide. She encountered mysterious forests, crossed treacherous rivers, and faced formidable adversaries. Along the way, she discovered hidden strengths within herself that she had never known existed.
@@ -1387,7 +1386,7 @@ By 1855, most of the large deposits of gold had been exhausted, ushering in the 
 
 # newtext_id = ARI-11-translatum-AA04
 # parallel_id = p_ARI-11-translatum-AA04
-# text_en = Superpowers for a super life?
+# text_en = Superpowers for a Super Life?
 What do you think life would really be like if humans had certain superpowers?
 A
 If we boasted the superhuman ability to fly, we would no longer need to worry about plunging from balconies or tumbling out of trees. It would also have a significant impact on urban architecture as buildings could soar with no need for lifts, except when transporting heavy loads. In addition to the potential change in city landscapes, dwellings on the sides of steep cliffs and hills would become more accessible, which could affect property prices. On the question of immortality, an obvious drawback would be the strain on the Earth’s resources due to intense overpopulation. It’s difficult to envisage how food and housing would stand up to such a challenge.
@@ -1410,7 +1409,7 @@ In my view, being able to fly would pose a security threat at both national and 
 
 # newtext_id = ARI-11-translatum-AA05
 # parallel_id = p_ARI-11-translatum-AA05
-# text_en = Four book summaries
+# text_en = Four Book Summaries
 Four positive books about the world
 Factfulness – Hans Rosling with Ola Rosling and Anna Rosling Rönnlund
 In Factfulness, Professor Hans Rosling, along with two collaborators, asks simple questions about the world. Questions like 'How many girls finish school?' and 'What percentage of the world's population is poor?' It turns out the majority of us get the answers to these questions completely wrong. Why does this happen? Factfulness sets out to explain why, showing that there are several instincts humans have that distort our perspective.
@@ -1510,16 +1509,16 @@ Away from the Capitol Hill area, Washington, D.C. has many museums and art galle
 # parallel_id = p_ARI-12-translatum-AA04
 # text_en = A Starry Gala Lights Up Hollywood for Kids' Charity
 Celebs Unite for a Glam and Giving Night
-HOLLYWOOD, CA - The bright lights of Hollywood shone even more last night as A-list stars and kind folks gathered for the yearly "Stars for Smiles" gala, a fancy event that raised lots of money for kids' charities.
+HOLLYWOOD, CA - The bright lights of Hollywood shone even more last night as A-list stars and kind folks gathered for the yearly “Stars for Smiles” gala, a fancy event that raised lots of money for kids' charities.
 This red carpet bash, held at the fancy Hollywood Ballroom, was a fancy show of both style and heart. Celebs from movies, music, and sports came in their best clothes, wowing photographers and fans. The gala's goal wasn't just to show off clothes but to show real care.
 Among the great guests were Oscar-winning actors, top musicians, and famous athletes, all joining up to help out causes that make life better for kids in need.
 The big moment of the night was the sale, where guests tried to get exclusive things, big trips, and rare stuff, all given by the stars themselves. Cool things included a private dinner with Hollywood star Samuel Johnson and a chance to watch a Grammy-winning singer, Ava Miller, record songs.
 The sale, led by the famous Richard Anderson, saw hard fights, making prices go way up. One big fight was over front-row seats to a Justin Turner show, which ended up selling for a huge $250,000.
-The host of the gala, the nice actress and helper, Emily Rodriguez, took the stage to thank everyone. Rodriguez said, "Tonight, we aren't just here for fame and money; we're here to use our power to really help kids who need it."
-Money from the night will help lots of kids' charities, like the "Sunshine Foundation," which helps kids get medical care and school help, and "Youth Empowerment Now," which helps kids get mentors and pay for school.
-Stars shared why they came to the event. Ava Miller said, "Since I've had luck in my job, it's a big deal to give back. Events like this show us how much we can help."
-The "Stars for Smiles" gala is a great example of how showbiz is really nice, and shows that being rich and famous can help others. As the night ended with a bright show of fireworks over Hollywood, it was clear that Hollywood's big stars had, once again, shown the way to a better future for kids in need.
-In a world where famous people often get lots of attention, the "Stars for Smiles" gala reminds us that, beyond the fancy stuff, there are kind hearts ready to make life better for those with less.
+The host of the gala, the nice actress and helper, Emily Rodriguez, took the stage to thank everyone. Rodriguez said, “Tonight, we aren't just here for fame and money; we're here to use our power to really help kids who need it.”
+Money from the night will help lots of kids' charities, like the “Sunshine Foundation,” which helps kids get medical care and school help, and “Youth Empowerment Now,” which helps kids get mentors and pay for school.
+Stars shared why they came to the event. Ava Miller said, “Since I've had luck in my job, it's a big deal to give back. Events like this show us how much we can help.”
+The “Stars for Smiles” gala is a great example of how showbiz is really nice, and shows that being rich and famous can help others. As the night ended with a bright show of fireworks over Hollywood, it was clear that Hollywood's big stars had, once again, shown the way to a better future for kids in need.
+In a world where famous people often get lots of attention, the “Stars for Smiles” gala reminds us that, beyond the fancy stuff, there are kind hearts ready to make life better for those with less.
 # text_hy = Աստղային երեկույթ Հոլիվուդում՝ հաջակցություն մանկական հիմնադրամների
 Հայտնիները համախմբվում են բարեգործական շքեղ երեկույթի շրջանակներում
 ՀՈԼԻՎՈՒԴ, ԿԱԼԻՖՈՌՆԻԱ — Հոլիվուդի վառ լույսերը երեկ երեկոյան էլ ավելի պայծառ էին փայլում. աստղերն ու բարեգործները հավաքվել էին ամենամյա «Աստղերը հանուն ժպիտների» միջոցառման շրջանակներում, որը շքեղ հանդիսություն էր, և որի ընթացքում մեծ գումար հավաքվեց մանկական բարեգործական կազմակերպությունների համար։
@@ -1564,7 +1563,7 @@ In conclusion, women's fashion is a dynamic and ever-evolving art form that mirr
 
 # newtext_id = ARI-12-translatum-AA06
 # parallel_id = p_ARI-12-translatum-AA06
-# text_en = The history of graffiti
+# text_en = The History of Graffiti
 The first drawings on walls appeared in caves thousands of years ago. Later the Ancient Romans and Greeks wrote their names and protest poems on buildings. Modern graffiti seems to have appeared in Philadelphia in the early 1960s, and by the late sixties it had reached New York. The new art form really took off in the 1970s, when people began writing their names, or 'tags', on buildings all over the city. In the mid-seventies it was sometimes hard to see out of a subway car window, because the trains were completely covered in spray paintings known as 'masterpieces'.
 In the early days, the 'taggers' were part of street gangs who were concerned with marking their territory. They worked in groups called 'crews', and called what they did 'writing' – the term 'graffiti' was first used by The New York Times and the novelist Norman Mailer. Art galleries in New York began buying graffiti in the early seventies. But at the same time that it began to be regarded as an art form, John Lindsay, the then mayor of New York, declared the first war on graffiti. By the 1980s it became much harder to write on subway trains without being caught, and instead many of the more established graffiti artists began using roofs of buildings or canvases.
 The debate over whether graffiti is art or vandalism is still going on. Peter Vallone, a New York city councilor, thinks that graffiti done with permission can be art, but if it is on someone else’s property, it becomes a crime. 'I have a message for the graffiti vandals out there,' he said recently. 'Your freedom of expression ends where my property begins.' On the other hand, Felix, a member of the Berlin-based group Reclaim Your City, says that artists are reclaiming cities for the public from advertisers, and that graffiti represents freedom and makes cities more vibrant.
@@ -1590,7 +1589,7 @@ David recently had some friends visit him in San Francisco, and he made sure to 
 
 # newtext_id = ARI-13-translatum-AA02
 # parallel_id = p_ARI-13-translatum-AA02
-# text_en = A biography of Kilian Jornet
+# text_en = A Biography of Kilian Jornet
 When you picture mountain climbers scaling Mount Everest, what probably comes to mind are teams of climbers with Sherpa guides leading them to the summit, equipped with oxygen masks, supplies and tents. And in most cases you'd be right, as 97 per cent of climbers use oxygen to ascend to Everest's summit at 8,850 metres above sea level. The thin air at high altitudes makes most people breathless at 3,500 metres, and the vast majority of climbers use oxygen past 7,000 metres. A typical climbing group will have 8–15 people in it, with an almost equal number of guides, and they'll spend weeks to get to the top after reaching Base Camp.
 But ultra-distance and mountain runner Kilian Jornet Burgada ascended the mountain in May 2017 alone, without an oxygen mask or fixed ropes for climbing.
 Oh, and he did it in 26 hours.
@@ -1601,7 +1600,7 @@ He was 13 when he says he started to take it 'seriously' and trained with the Sk
 Sleeping only seven hours a night, Kilian Jornet seems almost superhuman. His resting heartbeat is extremely low at 33 beats per minute, compared with the average man's 60 per minute or an athlete's 40 per minute. He breathes more efficiently than average people too, taking in more oxygen per breath, and he has a much faster recovery time after exercise as his body quickly breaks down lactic acid – the acid in muscles that causes pain after exercise.
 All this is thanks to his childhood in the mountains and to genetics, but it is his mental strength that sets him apart. He often sets himself challenges to see how long he can endure difficult conditions in order to truly understand what his body and mind can cope with. For example, he almost gave himself kidney failure after only drinking 3.5 litres of water on a 100km run in temperatures of around 40°C.
 It would take a book to list all the races and awards he's won and the mountains he's climbed. And even here, Kilian’s achievements exceed the average person as, somehow, he finds time to record his career on his blog and has written three books, Run or Die, The Invisible Border and Summits of My Life.
-# text_hy = Կիլիան Ջորնեթի կենսագրությունը 
+# text_hy = Կիլիան Ջորնեթի կենսագրությունը
 Երբ պատկերացնում եք լեռնագնացներ, որոնք բարձրանում են Էվերեստը, այն, ինչ հավանաբար գալիս է ձեր մտքին, լեռնագնացների թիմերն են՝ Շերպա ցեղի ներկայացուցիչների ուղեկցությամբ, ովքեր նրանց ուղեկցում են դեպի գագաթ՝ իրենց հետ թթվածնի դիմակներ, պաշար և վրաններ։ Եվ շատ հաճախ դուք իրավացի եք, որովհետև լեռնագնացների 97 տոկոսը թթվածին է օգտագործում Էվերեստի գագաթ՝ ծովի մակարդակից 8850 մետր բարձրանալու համար։ 3500 մետր բարձրության վրա նոսր օդից մարդկանց մեծամասնությունը շնչահեղձ է լինում, իսկ լեռնագնացների ճնշող մեծամասնությունը թթվածին օգտագործում է 7000 մետրից։ Սովորաբար լեռնագնացների խումբը բաղկացած է լինում 8–15 հոգուց՝ գրեթե նույնքան ուղեկցորդներով, և բազային ճամբար հասնելուց հետո շաբաթներ են պահանջվում՝ գագաթին հասնելու համար։
 Հեռավազորդ և լեռնագնաց Կիլիան Ջորնեթ Բուրգադան, սակայն, լեռ բարձրացավ 2017 թվականի մայիսին, միայնակ, առանց թթվածնի դիմակի և մագլցելու պարանների։
 Եվ նա դա արեց 26 ժամում։
@@ -1621,7 +1620,7 @@ It would take a book to list all the races and awards he's won and the mountains
 Halloween (also referred to as All Hollows' Eve) is a holiday that's celebrated in America on 31 October of each year, regardless of what day of the week this date falls on. Although it is rooted in religion, Halloween today is enjoyed mainly because of its decorations, costumes, candy, treats, and general excitement, and furthermore, it is enjoyed by most everyone.
 Before Halloween, many individuals carve a design into an orange-colored pumpkin, or a solid, durable vegetable. Once a personally satisfying design is carved, a lit candle is typically put inside a pumpkin, thereby making it a Jack-O-Lantern. At night, this design lights up against the darkness.
 Besides carving pumpkins, some celebrate Halloween by putting decorations up. Supernatural (referring in this case to non-natural creatures that're typically based in fiction) figures, including vampires, ghosts, werewolves, zombies, and more, generally account for most of these decorations. Bugs, spiders, cobwebs, gravestones, and anything else that can be considered creepy (or unusual and possibly scary) can also be found on Halloween, in decoration form.
-Only some adults celebrate Halloween, and they generally do so by attending parties. Inversely, the vast majority of children dress in costume (Halloween costumes can be based upon anything, from the mentioned supernatural creatures to the stars of today's films) and walk from door to door in search of candy—a practice known as trick or treat—on Halloween. After knocking on a door (houses that participate in Halloween usually leave a light on), one says, "Trick or Treat" and a piece (or pieces!) of candy is given to him or her.
+Only some adults celebrate Halloween, and they generally do so by attending parties. Inversely, the vast majority of children dress in costume (Halloween costumes can be based upon anything, from the mentioned supernatural creatures to the stars of today's films) and walk from door to door in search of candy—a practice known as trick or treat—on Halloween. After knocking on a door (houses that participate in Halloween usually leave a light on), one says, “Trick or Treat” and a piece (or pieces!) of candy is given to him or her.
 # text_hy = Հելոուին
 Հելոուինը տոն է, որը նշվում է Ամերիկայում ամեն տարվա հոկտեմբերի 31-ին՝ անկախ նրանից, թե այս ամսաթիվը շաբաթվա ինչ օր է լինում։ Չնայած տոնի արմատները կրոնական են, Հելոուինն այսօր նշում են հիմնականում իր ձևավորումների, զգեստների, կոնֆետների, հյուրասիրությունների և ընդհանուր ոգևորության պատճառով, և ավելին, այն սիրում են գրեթե բոլորը։
 Հելոուինից առաջ շատերը նարնջագույն դդմի կամ ինչ-որ ամուր, պինդ բանջարեղենի վրա ձևավորումներ են անում։ Երբ ցանկալի ձևավորմամբ փորագրումը պատրաստ է, դդմի մեջ սովորաբար վառվող մոմ են դնում՝ դարձնելով այն դդում-լապտեր։ Գիշերը մթության մեջ այն լույս է տալիս։
@@ -1633,7 +1632,7 @@ Only some adults celebrate Halloween, and they generally do so by attending part
 # text_en = Christmas
 A Christian holiday signifying the birth of Jesus, Christmas is widely celebrated and enjoyed across the United States and the world. The holiday always falls on 25 December (regardless of the day of the week), and is typically accompanied by decorations, presents, and special meals.
 Specifically, the legend behind Christmas (and the one that most children are told) is that Santa Claus, a bearded, hefty, jolly, and red-jacket-wearing old man who lives in the North Pole, spends the year crafting presents with his elves, or small, festive, excited Santa-assistants. All the children who behave throughout the year are admitted to the Good List, and will presumably receive their desired gifts on Christmas, while those who don't behave are placed on the Naughty List, and will presumably (although the matter is determined by parents) receive a lump of coal.
-Santa Claus is said to fly around the Christmas sky in a sled powered by his magical reindeer, or cold-resistant, mythically powered, individually named animals, delivering presents to each child's house in the process. Santa is also expected to slide through chimneys to deliver these presents (homes not equipped with chimneys might "leave the front door cracked open"), and children sometimes arrange cookies or other treats on a plate for him to enjoy.
+Santa Claus is said to fly around the Christmas sky in a sled powered by his magical reindeer, or cold-resistant, mythically powered, individually named animals, delivering presents to each child's house in the process. Santa is also expected to slide through chimneys to deliver these presents (homes not equipped with chimneys might “leave the front door cracked open”), and children sometimes arrange cookies or other treats on a plate for him to enjoy.
 Gifts are placed underneath a Christmas tree, or a pine tree that's decorated with ornaments and/or lights and is symbolic of the holiday. Additionally, smaller gifts may be placed inside a stocking, or a sock-shaped, holiday-specific piece of fabric that's generally hung on the mantle of a fireplace (homes without fireplaces might use the wall). A Christmas tree's ornaments, or hanging, typically spherical decorations, in addition to the mentioned lights, may be accompanied by a star, or a representation of the Star of Jerusalem that the Three Apostles followed while bringing Baby Jesus gifts and honoring him, in the Bible.
 # text_hy = Սուրբ Ծնունդ
 Սուրբ Ծնունդը՝ քրիստոնեական տոնը, որը նշանավորում է Հիսուսի ծնունդը, լայնորեն նշում և տոնում են Միացյալ Նահանգներում և ամբողջ աշխարհում։ Տոնը միշտ դեկտեմբերի 25-ին է (անկախ շաբաթվա օրվանից) և սովորաբար ուղեկցվում է զարդարանքներով, նվերներով և հատուկ ճաշատեսակներով։
@@ -1643,9 +1642,9 @@ Gifts are placed underneath a Christmas tree, or a pine tree that's decorated wi
 
 # newtext_id = ARI-14-translatum-AA03
 # parallel_id = p_ARI-14-translatum-AA03
-# text_en = The four seasons
+# text_en = The Four Seasons
 The four seasons are spring, summer, fall, and winter, and although various areas of the United States experience drastically different weather during these times, all portions of the country recognize the seasons; winter in California may bring heat, and winter in New York may bring blizzards, but both periods are nevertheless winter.
-Following winter, spring begins on 20 March and ends on either 20 June or 21 June, in the United States (this date may vary slightly from year to year and hemisphere to hemisphere). For most, spring is a time of "thawing," when the cold and snow of the winter are replaced by sunshine, reasonable temperatures, green grass, and more. It is also the season wherein previously dormant bees and butterflies reemerge, and when birds become more active.
+Following winter, spring begins on 20 March and ends on either 20 June or 21 June, in the United States (this date may vary slightly from year to year and hemisphere to hemisphere). For most, spring is a time of “thawing,” when the cold and snow of the winter are replaced by sunshine, reasonable temperatures, green grass, and more. It is also the season wherein previously dormant bees and butterflies reemerge, and when birds become more active.
 Summer follows spring and spans from about 21 June to 22 September, in America. Summer is the warmest, the longest, and (arguably) the liveliest of the four seasons; students from kindergarten to college are given two or so summer months off from class, and to be sure, there are more young individuals out and about during this season than any other. It's not uncommon to see shorts, t-shirts, and sunglasses worn by those who're soaking up the summer's hot sun, and to stay cool, many individuals crank the air conditioning, take a dip in a swimming pool, and/or explore the ever-comforting ocean waves.
 Autumn (or fall), more than being a simple precursor to winter, is one of the most beautiful and exciting seasons. Spanning from 22 September to 21 December (technically, that is; snow will begin to fall long before this latter date, in most parts of the country, leading many to classify the period as winter) in the US, autumn is characterized by falling leaves, Halloween (on 31 October), and Thanksgiving. During fall, traditional farmers harvest their produce, and the aforementioned falling leaves change to gorgeous orange, red, and yellow colors; these colors are generally associated with autumn itself, in turn.
 In the US, winter spans from 21 December to 20 March, and is, as one would expect, the coldest of the four seasons. In the eastern, northern, and central portions of the country, winter snowfall can be considerable; in the western and southern portions of the country, winter snowfall is highly unlikely, but temperatures nevertheless drop from their usual. Winter is most widely known for its snow and the Christmas holiday, but it also boasts New Year's Eve (on December 31, in recognition of the start of a new year) and other special days. Ice skating, sledding, ice hockey, and snowball fights are commonly enjoyed winter activities.
@@ -1660,8 +1659,8 @@ In the US, winter spans from 21 December to 20 March, and is, as one would expec
 # parallel_id = p_ARI-14-translatum-AA04
 # text_en = Valentine's Day
 Valentine's Day (or Saint Valentine's Day) is a holiday that, in the United States, takes place on February 14, and technically signifies the accomplishments of St. Valentine, a third-century Roman saint.
-With that said, most Americans, instead of honoring St. Valentine through religious ceremony, enjoy the holiday by engaging in "romantic" behavior with their significant other or someone who they wish to be their significant other; gifts, special dinners, and other acknowledgements of affection comprise most individuals' Valentine's Day celebrations.
-Chocolates and flowers are commonly given as gifts during Valentine's Day, as are accompanying greeting cards (greeting card companies release new Valentine's Day designs annually). Red and pink are generally understood to be "the colors" of Valentine's Day, and many individuals, instead of celebrating romantically, spend the holiday with their friends and/or family members.
+With that said, most Americans, instead of honoring St. Valentine through religious ceremony, enjoy the holiday by engaging in “romantic” behavior with their significant other or someone who they wish to be their significant other; gifts, special dinners, and other acknowledgements of affection comprise most individuals' Valentine's Day celebrations.
+Chocolates and flowers are commonly given as gifts during Valentine's Day, as are accompanying greeting cards (greeting card companies release new Valentine's Day designs annually). Red and pink are generally understood to be “the colors” of Valentine's Day, and many individuals, instead of celebrating romantically, spend the holiday with their friends and/or family members.
 Variations of Valentine's Day are celebrated across the globe throughout the year. In America, the holiday, although acknowledged by the vast majority of the population, isn't federally recognized; no time off work is granted for Valentine's Day.
 # text_hy = Վալենտինի օրը
 Վալենտինի օրը (կամ Սուրբ Վալենտինի օրը) տոն է, որը Միացյալ Նահանգներում նշվում է փետրվարի 14-ին և կապված է Սուրբ Վալենտինի՝ երրորդ դարի հռոմեական սրբի անվան հետ։
@@ -1671,7 +1670,7 @@ Variations of Valentine's Day are celebrated across the globe throughout the yea
 
 # newtext_id = ARI-14-translatum-AA05
 # parallel_id = p_ARI-14-translatum-AA05
-# text_en = Human body parts and organs
+# text_en = Human Body Parts and Organs
 It goes without saying that humans (mammals identifiable as those that stand upright and are comparatively advanced and capable of detailed thought) have pretty remarkable bodies, given all that they've accomplished. (Furthermore, an especially intelligent human brain produced this text!) To be sure, humans have overcome predators, disease, and all sorts of other obstacles over thousands of years.
 To fully understand and appreciate these accomplishments, let's take at some of the most well-known parts of the human body!
 The head, or the spherical body part that contains the brain and rests at the top of the human body, has quite a few individual organs and body parts on it. (It should quickly be mentioned that hair occupies the space on top of the head, and the ears, the organs responsible for hearing, are located on either side of the head.) From top to bottom, the eyebrows, or horizontal strips of hair that can be found above the eye, are the first components of the head. The eyes are below them, and are round, orb-like organs that allow humans to see.
@@ -1697,7 +1696,7 @@ While eating at a restaurant is an enjoyable and convenient occasional treat, mo
 Produce, or the term used to describe fresh fruits and vegetables, is commonly purchased by grocery store shoppers. In terms of fruit, most grocery stores offer bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, cantaloupes, watermelons, and more; other grocery stores with larger produce selections might offer the listed fruits in addition to less common fruits, including mangoes, honeydews, starfruits, coconuts, and more.
 Depending on the grocery store, customers can purchase fruits in a few different ways. Some stores will charge a set amount per pound of fruit, and will weigh customers' fruit purchases and bill them accordingly; other stores will charge customers for each piece of fruit they buy, or for bundles of fruit (a bag of bananas, a bag of apples, etc.); other stores yet will simply charge by the container.
 Vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more are also sold at many grocery stores, and are purchased similarly to the way that fruits are. Grocery stores typically stock more vegetables than fruit at any given time, as vegetables remain fresh longer than fruits do, generally speaking.
-It'd take quite a while to list everything else that today's massive grocery stores sell, but most customers take the opportunity to shop for staples, or foods that play a prominent role in the average diet, at the establishments. Staples include pasta, rice, flour, sugar, milk, meat, and eggs, and bread. All the listed staples are available in prepackaged containers, but can be purchased "fresh" in some grocery stores, wherein employees will measure and weigh fresh products and then provide them to customers.
+It'd take quite a while to list everything else that today's massive grocery stores sell, but most customers take the opportunity to shop for staples, or foods that play a prominent role in the average diet, at the establishments. Staples include pasta, rice, flour, sugar, milk, meat, and eggs, and bread. All the listed staples are available in prepackaged containers, but can be purchased “fresh” in some grocery stores, wherein employees will measure and weigh fresh products and then provide them to customers.
 # text_hy = Սննդամթերք
 Թեև ռեստորանում սնվելը հաճելի է և հարմար, սակայն շատ մարդիկ և ընտանիքներ կերակուրը պատրաստում են տանը։ Ամեն օր նախաճաշ, ճաշ և ընթրիք պատրաստելու համար պետք է ունենալ անհրաժեշտ սննդամթերքն ու բաղադրիչները և պատրաստ լինել աշխատելու։ Սննդամթերքը և բաղադրիչները սովորաբար գնում են մթերային խանութից կամ այն ընկերություններից, որոնք մատակարարում են սովորական սպառողների կողմից օգտագործվող սննդամթերք, խմիչք, կենցաղային և այլ ապրանքներ։
 Բերքը կամ մեկ այլ բառ, որով նկարագրվում են թարմ մրգերն ու բանջարեղենը, սովորաբար վաճառվում է մթերային խանութներում։ Մթերային խանութներից շատերն առաջարկում են բանան, խնձոր, նարինջ, մոշ, ազնվամորի, խաղող, արքայախնձոր, սեխ, ձմերուկ և այլն։ Ավելի մեծ ընտրանի ունեցող մթերային խանութները, բացի նշված մրգերից, առաջարկում են նաև ավելի քիչ տարածված տեսակներ՝ մանգո, կանտալուպ, կարամբոլա, կոկոս և այլն։
@@ -1710,7 +1709,7 @@ It'd take quite a while to list everything else that today's massive grocery sto
 # text_en = Thanksgiving
 Thanksgiving is a holiday celebrated predominantly in North America, and it possesses a different meaning in each of the countries where it's acknowledged.
 In the United States, Thanksgiving is a federal holiday (meaning all government employees and most private employees are given a day off of work), and always takes places on the Fourth Thursday in November, regardless of the date.
-The holiday signifies the immense progress made by pilgrims, or some of the first travelers to North America, at Plymouth Plantation circa 1621. It was at this time that the hungry and weary Pilgrims were taught (by Native Americans) how to grow and produce food on North America's unique terrain. Once they'd grown (and caught) an abundance of food, the Pilgrims were expectedly thankful, and they celebrated alongside the Native Americans who provided them with such valuable assistance. President Abraham Lincoln initiated the contemporary practice of Thanksgiving by calling for a "day of Thanksgiving" during one of his Civil War addresses.
+The holiday signifies the immense progress made by pilgrims, or some of the first travelers to North America, at Plymouth Plantation circa 1621. It was at this time that the hungry and weary Pilgrims were taught (by Native Americans) how to grow and produce food on North America's unique terrain. Once they'd grown (and caught) an abundance of food, the Pilgrims were expectedly thankful, and they celebrated alongside the Native Americans who provided them with such valuable assistance. President Abraham Lincoln initiated the contemporary practice of Thanksgiving by calling for a “day of Thanksgiving” during one of his Civil War addresses.
 In America today, Thanksgiving remains firmly engrained in its historical roots, and is widely considered to be a day for giving thanks for good food, good times, and family. Thanksgiving dinner generally consists of turkey, mashed potatoes, stuffing, vegetables, gravy, and ample desserts. To be sure, indulging in abundance is a cornerstone of the holiday, as doing so could only be possible if one possesses abundance.
 # text_hy = Գոհաբանության օր
 Գոհաբանության օրը տոն է, որը հիմնականում նշվում է Հյուսիսային Ամերիկայում, և տարբեր նշանակություն ունի այն երկրներում, որտեղ ընդունված է։
@@ -1724,7 +1723,7 @@ In America today, Thanksgiving remains firmly engrained in its historical roots,
 As has been the case for many years, jobs, or forms of employment wherein employees perform a service or duty in exchange for financial compensation, play a prominent role in society. Furthermore, all jobs—even those of seemingly little significance—are important, as they simply wouldn't exist if their specific responsibilities weren't of value to employers (companies or persons that pay others for their work), customers (individuals who pay money for a product or service), and the economy generally.
 Teachers, or educational professionals tasked with helping students understand certain subjects and topics, are especially crucial today. In short, teachers help their students to become qualified for their future careers.
 Doctors, or medical professionals who specialize in providing health-related assistance to patients, are some of the most respected individuals in America and the world. It's the responsibility of doctors to help those who feel less-than-stellar to determine the underlying health issue(s) and recommend an effective treatment (or remedy to a disease, disorder, or condition).
-There are quite a few types of specialty doctors in America (besides MD, which simply means "medical doctor"), all of whom can be referred to simply as "Doctor (Name)." Dentists (mouth/teeth doctors), dermatologists (skin doctors), and psychiatrists (mental-health doctors) are just a few examples of the many different types of doctors.
+There are quite a few types of specialty doctors in America (besides MD, which simply means “medical doctor”), all of whom can be referred to simply as “Doctor (Name).” Dentists (mouth/teeth doctors), dermatologists (skin doctors), and psychiatrists (mental-health doctors) are just a few examples of the many different types of doctors.
 Additionally, nurses are medical professionals who help to administer doctor-ordered treatments to patients.
 Police officers are law enforcement professionals whose job it is to protect citizens, solve crimes, and assure that rules and regulations are followed. Similarly, firefighters serve the public by responding to fires (and other emergency situations) and using high-tech equipment to extinguish these fires, while bringing any individuals who're in danger to safety.
 Farmers maintain fields of crops (or vegetable/fruit plants) and/or collections of animals with the intention of selling these products as food.
@@ -1760,13 +1759,13 @@ Ultimately, the effects of the modern world on the environment can lead to many 
 
 # newtext_id = ARI-14-translatum-AA10
 # parallel_id = p_ARI-14-translatum-AA10
-# text_en = Cultural behaviour in business
+# text_en = Cultural Behaviour in Business
 Much of today's business is conducted across international borders, and while the majority of the global business community might share the use of English as a common language, the nuances and expectations of business communication might differ greatly from culture to culture. A lack of understanding of the cultural norms and practices of our business acquaintances can result in unfair judgements, misunderstandings and breakdowns in communication. Here are three basic areas of differences in the business etiquette around the world that could help stand you in good stead when you next find yourself working with someone from a different culture.
 Addressing someone
-When discussing this topic in a training course, a German trainee and a British trainee got into a hot debate about whether it was appropriate for someone with a doctorate to use the corresponding title on their business card. The British trainee maintained that anyone who wasn't a medical doctor expecting to be addressed as 'Dr' was disgustingly pompous and full of themselves. The German trainee, however, argued that the hard work and years of education put into earning that PhD should give them full rights to expect to be addressed as 'Dr'.
+When discussing this topic in a training course, a German trainee and a British trainee got into a hot debate about whether it was appropriate for someone with a doctorate to use the corresponding title on their business card. The British trainee maintained that anyone who wasn't a medical doctor expecting to be addressed as “Dr” was disgustingly pompous and full of themselves. The German trainee, however, argued that the hard work and years of education put into earning that PhD should give them full rights to expect to be addressed as “Dr”.
 This stark difference in opinion over something that could be conceived as minor and thus easily overlooked goes to show that we often attach meaning to even the most mundane practices. When things that we are used to are done differently, it could spark the strongest reactions in us. While many Continental Europeans and Latin Americans prefer to be addressed with a title, for example Mr or Ms and their surname when meeting someone in a business context for the first time, Americans, and increasingly the British, now tend to prefer using their first names. The best thing to do is to listen and observe how your conversation partner addresses you and, if you are still unsure, do not be afraid to ask them how they would like to be addressed.
 Smiling
-A so-called 'smile of respect' is seen as insincere and often regarded with suspicion in Russia. A famous Russian proverb even states that 'laughing without reason is a sign of idiocy'. Yet in countries like the United States, Australia and Britain, smiling is often interpreted as a sign of openness, friendship and respect, and is frequently used to break the ice.
+A so-called “smile of respect” is seen as insincere and often regarded with suspicion in Russia. A famous Russian proverb even states that “laughing without reason is a sign of idiocy”. Yet in countries like the United States, Australia and Britain, smiling is often interpreted as a sign of openness, friendship and respect, and is frequently used to break the ice.
 In a piece of research done on smiles across cultures, the researchers found that smiling individuals were considered more intelligent than non-smiling people in countries such as Germany, Switzerland, China and Malaysia. However, in countries like Russia, Japan, South Korea and Iran, pictures of smiling faces were rated as less intelligent than the non-smiling ones. Meanwhile, in countries like India, Argentina and the Maldives, smiling was associated with dishonesty.
 Eye contact
 An American or British person might be looking their client in the eye to show that they are paying full attention to what is being said, but if that client is from Japan or Korea, they might find the direct eye contact awkward or even disrespectful. In parts of South America and Africa, prolonged eye contact could also be seen as challenging authority. In the Middle East, eye contact across genders is considered inappropriate, although eye contact within a gender could signify honesty and truthfulness.

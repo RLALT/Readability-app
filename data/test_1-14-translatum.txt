@@ -14,11 +14,11 @@ I have a cat. My cat is black. She likes to play. She runs fast. I love my cat.
 # newtext_id = ARI-02-translatum-AB01
 # parallel_id = p_ARI-02-translatum-AB01
 # text_en = A Day at the Park
-Today, I went to the park with my friends. The sun was shining, and the sky was blue. We were excited to play outside. 
-First, we played on the swings. I swung high into the air and felt like I could touch the clouds. My friend Mia laughed as she pushed me. 
-Next, we played tag. I ran fast, trying to catch my friends. We all laughed and shouted as we ran around the big trees. 
-After playing, we sat on the grass to eat lunch. I had a sandwich and some apple slices. We shared stories and talked about our favorite games. 
-Before we left, we took a walk around the pond. We saw ducks swimming and flowers blooming. It was a perfect day at the park. 
+Today, I went to the park with my friends. The sun was shining, and the sky was blue. We were excited to play outside.
+First, we played on the swings. I swung high into the air and felt like I could touch the clouds. My friend Mia laughed as she pushed me.
+Next, we played tag. I ran fast, trying to catch my friends. We all laughed and shouted as we ran around the big trees.
+After playing, we sat on the grass to eat lunch. I had a sandwich and some apple slices. We shared stories and talked about our favorite games.
+Before we left, we took a walk around the pond. We saw ducks swimming and flowers blooming. It was a perfect day at the park.
 I can’t wait to go back again!
 # text_hy = Այգում
 Այսօր ընկերներիս հետ գնացի այգի։ Արևը շողում էր, իսկ երկինքը կապույտ էր։ Մենք ոգևորությամբ խաղում էինք դրսում։
@@ -145,7 +145,7 @@ As the sun began to set, we packed our things and headed home. We were tired but
 # newtext_id = ARI-07-translatum-AB01
 # parallel_id = p_ARI-07-translatum-AB01
 # text_en = The Mysterious Disappearance of the Dinosaurs
-Millions of years ago, the Earth was home to a wide variety of fascinating creatures known as dinosaurs. These giant reptiles roamed the land, soared through the skies, and swam in the oceans. They came in all shapes and sizes, from the towering Brachiosaurus to the fierce Tyrannosaurus Rex. 
+Millions of years ago, the Earth was home to a wide variety of fascinating creatures known as dinosaurs. These giant reptiles roamed the land, soared through the skies, and swam in the oceans. They came in all shapes and sizes, from the towering Brachiosaurus to the fierce Tyrannosaurus Rex.
 However, around 66 million years ago, something catastrophic happened that led to the extinction of these magnificent beasts. Scientists have long debated the cause of this mysterious disappearance, and over the years, several theories have been proposed. One of the most widely accepted explanations is the asteroid impact theory.
 According to this theory, a massive asteroid, estimated to be about 6 miles wide, slammed into the Earth near the Yucatan Peninsula in Mexico. The impact was so powerful that it caused massive earthquakes, volcanic eruptions, and a huge dust cloud that blocked out the sun for several years. This led to a dramatic drop in global temperatures, disrupting the food chain and making it impossible for many species, including the dinosaurs, to survive.
 Another theory suggests that intense volcanic activity may have contributed to the dinosaurs' demise. Around the same time as the asteroid impact, there was a period of intense volcanic activity in what is now India. These eruptions released massive amounts of greenhouse gases into the atmosphere, causing global warming and acidification of the oceans. This could have had a devastating effect on the dinosaurs and other species living at the time.
@@ -259,7 +259,7 @@ In conclusion, the importance of critical thinking in the modern world cannot be
 # doc_id = ARI-13-translatum
 # newtext_id = ARI-13-translatum-AB01
 # parallel_id = p_ARI-13-translatum-AB01
-# text_en = A threat to bananas
+# text_en = A Threat to Bananas
 In the 1950s, Central American commercial banana growers were facing the death of their most lucrative product, the Gros Michel banana, known as Big Mike. And now it’s happening again to Big Mike’s successor – the Cavendish.
 With its easily transported, thick-skinned and sweet-tasting fruit, the Gros Michel banana plant dominated the plantations of Central America. United Fruit, the main grower and exporter in South America at the time, mass-produced its bananas in the most efficient way possible: it cloned shoots from the stems of plants instead of growing plants from seeds, and cultivated them in densely packed fields.
 Unfortunately, these conditions are also perfect for the spread of the fungus Fusarium oxysporum f. sp. cubense, which attacks the plant’s roots and prevents it from transporting water to the stem and leaves. The TR-1 strain of the fungus was resistant to crop sprays and travelled around on boots or the tyres of trucks, slowly infecting plantations across the region. In an attempt to escape the fungus, farmers abandoned infected fields, flooded them and then replanted crops somewhere else, often cutting down rainforest to do so.
@@ -280,7 +280,7 @@ Racing against the inevitable, scientists are working on solving the problem by 
 # doc_id = ARI-14-translatum
 # newtext_id = ARI-14-translatum-AB01
 # parallel_id = p_ARI-14-translatum-AB01
-# text_en = Giving and receiving positive feedback
+# text_en = Giving and Receiving Positive Feedback
 Your manager stops you and says she needs to have a word about your performance in the recent project. You worry about it all weekend, wondering what you might have done wrong. When you step into her office on Monday morning she begins by praising you for the good work you've done on the project, and you wonder if this is the obligatory praise that starts off the typical 'feedback sandwich'. You know how the feedback sandwich goes: say something nice, say what you really want to say, say something nice again.
 In an attempt to inject some positivity into their feedback, many managers rely on sandwiching negative feedback between two positive comments. However, when feedback becomes such a routine, employees can start to perceive positive feedback as simply a form of sugarcoating the negatives, thus diminishing its value. Instead, positive feedback should not simply be seen as something to cushion the negative, but should be delivered so as to reinforce and encourage good performance. Below are three tips to help you make positive feedback count.
 1. Don't always follow positive feedback with negative feedback
@@ -288,7 +288,7 @@ When positive and negative feedback always appear to go hand in hand, the positi
 2. Cultivate a 'growth mindset'
 Psychologist and 'growth mindset' proponent Carol Dweck spoke of the plasticity of the brain and our ability to develop skills and talents that we might not have been good at to start with. Many of us tend to focus our praise on the end result and seemingly innate talents, e.g. 'You really have an eye for details' or 'You have a real talent for organising events'. However, research suggests that by focusing on the process of how things are done – praising effort, experimentation and problem-solving strategies – we can encourage the development of new skills and the continued honing of talents.
 3. Create a culture of offering positive feedback
-Make giving positive feedback part of your team/department/company culture. Don't just wait for special moments like appraisals to give feedback. Offer informal positive feedback when making small talk or when walking down a corridor. Feedback doesn't have to only come from the higher ranks either. Encourage peer feedback among team members and colleagues and actively ask them for positive comments on each other's performances on tasks. 
+Make giving positive feedback part of your team/department/company culture. Don't just wait for special moments like appraisals to give feedback. Offer informal positive feedback when making small talk or when walking down a corridor. Feedback doesn't have to only come from the higher ranks either. Encourage peer feedback among team members and colleagues and actively ask them for positive comments on each other's performances on tasks.
 It might take time to counter the effects of an environment where there is a cynical view of positive feedback, but in the long run, by embracing positive feedback, you can not only enhance working performance but also enrich the quality of life in the workplace.
 # text_hy = Դրական կարծիք հայտնելը և ստանալը
 Ձեր ղեկավարը կանգնեցնում է Ձեզ և ասում, որ պետք է խոսի Ձեզ հետ վերջին նախագծում Ձեր կատարողականի մասին։ Դուք անհանգստանում եք ողջ հանգստյան օրերի ընթացքում՝ մտածելով, թե ինչ սխալ եք թույլ տվել։ Երբ երկուշաբթի առավոտյան մտնում եք նրա աշխատասենյակ, նա սկսում է գովել Ձեզ նախագծում կատարած լավ աշխատանքի համար, իսկ Դուք մտածում եք՝ երևի սա այն պարտադիր գովաբանությունն է, որով սովորաբար սկսվում է «բացասական կարծիքի սենդվիչը»։ Հավանաբար գիտեք, թե ինչպես է այն աշխատում՝ ասել մի լավ բան, հետո ասել այն, ինչ իսկապես ուզում եք ասել, նորից ասել մի լավ բան։
