@@ -60,7 +60,7 @@ def simple_parse(filename):
         'doc_title_long': metadata.get('doc_title_long'),
         'doc_title_short': metadata.get('doc_title_short'),
         'doc_id': metadata.get('doc id'),
-        'grade': metadata.get('index_est_grade'),
+        'grade': metadata.get('index_est_score'),  # դիւրընթեռնելութեան ակնկալուող միաւորը մետատուեալներից
         'unit_title_long': metadata.get('newunit_title_long'),
         'unit_title_short': metadata.get('newunit_title_short'),
         'unit_id': metadata.get('newunit id'),
@@ -142,12 +142,12 @@ def score_grade(score):
         11: "Տասներորդ դասարան",
         12: "Տասնմեկերորդ դասարան",
         13: "Տասներկուերորդ դասարան",
-        14: "Բուհական",
+        14: "Բուհական", ## երկու տարբերակ ունենք, կամ աիտի աւարտուի բուհականով, աւելի բարձր աստճան չունի այս ինդեքսը կամ նմանությամբ մինչև փորձագիտական
         15: "Հետբուհական",
         16: "Փորձագիտական"
     }
 
-    match score:
+    match score: ## չպիտի՞ կլորացնենք մինչեւ կեսը, թէ հաշուում է՝ մեծ է նախորդից և փոքր կամ հաւասար է ընթացիկին - նախակրթարանը մէկ միաւոր է, առաջին դասարանը արդէն երկու միաւոր 
         case n if n < 1:
             grade = 1
         case n if 1 <= n < 2:
@@ -318,8 +318,8 @@ for filename in pathiks(base_folder)[0]:
 
     result_by_row = ari_count(text)
 
-    all_result = all_result + f"Բաժին – {data['unit_title_long']} \
-\nԴաս – {data['lesson_title']} Հեղինակ – {data['author_name']} \n{result_by_row}"
+    all_result = all_result + f"Բաժին – {data['unit_title_long']}\
+\nԴաս – {data['lesson_title']} \nՀեղինակ – {data['author_name']} \n{result_by_row}"
 
     text_name = data['lesson_title']
 
@@ -402,3 +402,4 @@ plt.show()
 with open(output_folder + "_արդիւնք.txt", "w", encoding="utf-8") as file:
 
     file.write(all_result)
+
