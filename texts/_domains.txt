@@ -2,9 +2,10 @@
 Արտագրություն = transcriptio
 Այբբենարան = alphabetum
 Անգլերեն = anglicum
-Աշխարհագրություն = geographia
+Աշխարհագրություն (ՀՍՍՀ, ՍՍՀՄ, մայրցամաքների, տնտեսական, Հայաստանի)= geographia
 Արվեստ = ars
 Բնագիտություն = naturalis
+	Առողջություն (առողջապահություն, հիգիենա) = cura
 Բնություն = natura
 Բուսաբանություն = botanica
 Գերմաներեն = germanicum
@@ -24,6 +25,10 @@
 Հայոց պատմություն (հայ ժողովրդի) = historiaarmeniaca
 Հանրահաշիվ = algebra
 Հասարակագիտություն = socialia
+	Փիլիսոփայություն = philosophia
+	Հոգեբանություն = psychologia
+	Մանկավարժություն = paedagogia
+	Գրախոսություն  = recensio
 Մաթեմատիկա = mathematica
 Մայրենի = linguapatria
 Ռուսաց լեզու russicum
