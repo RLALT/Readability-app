@@ -18,5 +18,5 @@ terminal-ում (cmd, command line) տեղափոխվում եք աշխատանք
 
 Արդյունքները կգրվեն results ծրարում
 
-#
-A parallel translated corpus of English texts with Automated Readability Index (ARI) scores was compiled to calculate the ARI scores in Armenian.
+# data
+A parallel Armenian-English corpus with Automated Readability Index (ARI) scores for English text pieces was built in order to calculate the corresponding ARI scores in Armenian.
