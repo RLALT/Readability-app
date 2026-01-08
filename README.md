@@ -20,7 +20,7 @@ terminal-ում (cmd, command line) տեղափոխվում եք աշխատանք
 
 ## Data
 
-A parallel Armenian-English corpus with Automated Readability Index (ARI) scores for English text pieces was built in order to calculate the corresponding ARI scores in Armenian.
+A parallel English-Armenian corpus with Automated Readability Index (ARI) scores for English text pieces was built in order to calculate the corresponding scores in Armenian.
 
 ## Format
 Armenian textbooks data conforms to the following specifics:
@@ -33,4 +33,4 @@ Armenian textbooks data conforms to the following specifics:
 * Lesson-level author boundaries are present as `newauthor id = doc-newunit-xxxx`
 * Lessson boundaries are present as `newlesson id = doc-newunit-newauthorxxxx`
 
-* Document, unit, author and lesson ids are 4-character base-32 numbers. They survive treebank updates.
+* Document, unit, author and lesson ids are 4-character base-32 numbers.
